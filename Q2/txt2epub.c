@@ -1,21 +1,28 @@
 #include <stdio.h>
+#include <stdlib.h>
+#include <unistd.h>
+#include <fcntl.h>
 
 
 
 int main(int argc, char* argv[]) {
+    
+    char test[]= "JoeMama\0";
+    *test = '4';
+    printf("%s\n", test);
 
-    char* filesEmEpub[argc-1]; //A ideia é irmos colocando aqui os ficheiros à medida que eles são criados para depois dar exec deste vetor no zip.
+    //FILE* filesEmEpub[argc-1]; //A ideia é irmos colocando aqui os ficheiros à medida que eles são criados para depois dar exec deste vetor no zip.
 
 
     //ter um vetor de pids dos filhotes
     
-    for (int i = 1; i < argc; i++) {
+    /*for (int i = 1; i < argc; i++) {
         int pid = fork();
         //adicionar ao vetor o pid
         if (pid == 0) {
             //exec(pandoc argv[i]);
         }
-    }
+    }*/
     
     /*
     for(todos os pids do vetor) {
@@ -24,6 +31,6 @@ int main(int argc, char* argv[]) {
     */
 
     //exec (zip  piça/cona);
-    
+    return 0;
 
 }
