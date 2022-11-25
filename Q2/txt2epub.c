@@ -4,11 +4,8 @@
 
 int main(int argc, char* argv[]) {
 
-    /*
-    for (int i = 1; i < argc; i++) {
-        criar a string com os vários nomes em .pid para usar no cenos do zip e do pandoc? 
-    }
-    */
+    char* filesEmEpub[argc-1]; //A ideia é irmos colocando aqui os ficheiros à medida que eles são criados para depois dar exec deste vetor no zip.
+
 
     //ter um vetor de pids dos filhotes
     
