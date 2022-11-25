@@ -38,9 +38,9 @@ int main(int argc, char* argv[]) {
     fseek(file, 0, SEEK_END);
     int test2 = ftell(file);
     printf("%d\n", test2 - test1);
-    int tam = test2 - test1;
+    tam = test2 - test1;
 
-    if ( tam < ( (int)argv[2] + (int)argv[3] - 1 ) ) {
+    if ( tam < ( atoi(argv[2]) + atoi(argv[3]) - 1 ) ) {
         printf("Dava jeito uma string em condições oh caralho, não peças merdas que não fazem sentido zézé ");
         return 1;
     }
