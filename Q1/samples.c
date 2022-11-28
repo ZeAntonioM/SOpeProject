@@ -30,6 +30,11 @@ int main (int argc, char* argv[]) {
         printf("numberfrags and maxfragsize must be integers\n");
         return EXIT_FAILURE;
     }
+
+    //if user gets drunk, returns nothing
+    if (numberFrags <= 0 || maxFragSize <= 0) {
+        return 0;
+    }
     
     //Checks if file is actually a file
     file = fopen(argv[1], "r");
@@ -58,7 +63,7 @@ int main (int argc, char* argv[]) {
         // Determinar inicio de proximo fragmento
         while (1) {
             alreadyStored = 0;
-            aTry = random() % (tam-maxFragSize); 
+            aTry = random() % (tam - maxFragSize + 1); 
             for (int i = 0; i < arraySize; i++) {
                 if (aTry == alreadySeen[i]) {
                     alreadyStored = 1;
