@@ -1,0 +1,3038 @@
+The Project Gutenberg eBook of Sun Tzŭ on the Art of War, by Sun
+Tzŭ
+
+This eBook is for the use of anyone anywhere in the United States and
+most other parts of the world at no cost and with almost no restrictions
+whatsoever. You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this eBook or online at
+www.gutenberg.org. If you are not located in the United States, you
+will have to check the laws of the country where you are located before
+using this eBook.
+
+Title: Sun Tzŭ on the Art of War
+       The Oldest Military Treatise in the World
+
+Author: Sun Tzŭ
+
+Translator: Lionel Giles
+
+Release Date: November 10, 2021 [eBook #66706]
+
+Language: English
+
+Produced by: Ronald Grenier (This file was produced from images
+             generously made available by the Internet
+             Archive/University of Toronto libraries)
+
+*** START OF THE PROJECT GUTENBERG EBOOK SUN TZŬ ON THE ART OF WAR ***
+
+
+
+
+
+Transcriber’s Note:
+
+This is a complete unabridged transcription of Lionel Gile’s translation
+of The Art of War. See additional notes at the end of the book.
+
+
+
+
+                              孫子兵法
+
+                              Sun Tzŭ
+                              on the
+                             Art of War
+
+             THE OLDEST MILITARY TREATISE IN THE WORLD
+
+
+    Translated from the Chinese with introduction and critical notes
+
+                                 BY
+                        LIONEL GILES, M.A.
+
+     Assistant in the Department of Oriental Printed Books and MSS.
+                       in the British Museum
+
+
+                               London
+                             LUZAC & C^o.
+                                1910
+
+               Printed by E. J. Bbill, Leyden (Holland).
+
+
+
+
+                           To my brother
+                     Captain Valentine Giles, R.G.
+                          in the hope that
+                        a work 2400 years old
+               may yet contain lessons worth consideration
+                       by the soldier of to-day
+                          this translation
+                     is affectionately dedicated
+
+
+
+
+                              CONTENTS
+
+
+                                                               Page
+  Preface                                                         vii
+  Introduction
+    Sun Wu and his Book                                            xi
+    The Text of Sun Tzŭ                                           xxx
+    The Commentators                                            xxxiv
+    Appreciations of Sun Tzŭ                                     xlii
+    Apologies for War                                           xliii
+    Bibliography                                                    l
+  Chap.      I. Laying plans                                        1
+    „       II. Waging War                                          9
+    „      III. Attack by Stratagem                                17
+    „       IV. Tactical Dispositions                              26
+    „        V. Energy                                             33
+    „       VI. Weak Points and Strong                             42
+    „      VII. Manœuvring                                         55
+    „     VIII. Variation of Tactics                               71
+    „       IX. The Army on the March                              80
+    „        X. Terrain                                           100
+    „       XI. The Nine Situations                               114
+    „      XII. The Attack by Fire                                150
+    „     XIII. The Use of Spies                                  160
+  Chinese Concordance                                             176
+  Index                                                           192
+
+
+
+
+                              PREFACE
+
+
+The seventh volume of “Mémoires concernant l’histoire, les sciences,
+les arts, les mœurs, les usages, &c., des Chinois”[1] is devoted to the
+Art of War, and contains, amongst other treatises, “Les Treize Articles
+de Sun-tse,” translated from the Chinese by a Jesuit Father, Joseph
+Amiot. Père Amiot appears to have enjoyed no small reputation as a
+sinologue in his day, and the field of his labours was certainly
+extensive. But his so-called translation of Sun Tzŭ, if placed side
+by side with the original, is seen at once to be little better than an
+imposture. It contains a great deal that Sun Tzŭ did not write, and
+very little indeed of what he did. Here is a fair specimen, taken from
+the opening sentences of chapter 5:—
+
+  _De l’habileté dans le gouvernement des Troupes._ Sun-tse dit:
+  Ayez les noms de tous les Officiers tant généraux que subalternes;
+  inscrivez-les dans un catalogue à part, avec la note des talents &
+  de la capacité de chacun d’eux, afin de pouvoir les employer avec
+  avantage lorsque l’occasion en sera venue. Faites en sorte que
+  tous ceux que vous devez commander soient persuadés que votre
+  principale attention est de les préserver de tout dommage. Les
+  troupes que vous ferez avancer contre l’ennemi doivent être comme
+  des pierres que vous lanceriez contre des œufs. De vous à l’ennemi
+  il ne doit y avoir d’autre différence que celle du fort au foible,
+  du vuide au plein. Attaquez à découvert, mais soyez vainqueur en
+  secret. Voilà en peu de mots en quoi consiste l’habileté & toute
+  la perfection même du gouvernement des troupes.
+
+Throughout the nineteenth century, which saw a wonderful development
+in the study of Chinese literature, no translator ventured to tackle
+Sun Tzŭ, although his work was known to be highly valued in China as
+by far the oldest and best compendium of military science. It was not
+until the year 1905 that the first English translation by Capt. E. F.
+Calthrop, R.F.A., appeared at Tokyo under the title “Sonshi” (the
+Japanese form of Sun Tzŭ)[2]. Unfortunately, it was evident that the
+translator’s knowledge of Chinese was far too scanty to fit him to
+grapple with the manifold difficulties of Sun Tzŭ. He himself plainly
+acknowledges that without the aid of two Japanese gentlemen “the
+accompanying translation would have been impossible.” We can only
+wonder, then, that with their help it should have been so excessively
+bad. It is not merely a question of downright blunders, from which
+none can hope to be wholly exempt. Omissions were frequent; hard
+passages were wilfully distorted or slurred over. Such offences are
+less pardonable. They would not be tolerated in any edition of a Greek
+or Latin classic, and a similar standard of honesty ought to be
+insisted upon in translations from Chinese.
+
+From blemishes of this nature, at least, I believe that the present
+translation is free. It was not undertaken out of any inflated estimate
+of my own powers; but I could not help feeling that Sun Tzŭ deserved a
+better fate than had befallen him, and I knew that, at any rate, I
+could hardly fail to improve on the work of my predecessors. Towards
+the end of 1908, a new and revised edition of Capt. Calthrop’s
+translation was published in London, this time, however, without any
+allusion to his Japanese collaborators. My first three chapters were
+then already in the printer’s hands, so that the criticisms of Capt.
+Calthrop therein contained must be understood as referring to
+his earlier edition. In the subsequent chapters I have of course
+transferred my attention to the second edition. This is on the whole an
+improvement on the other, though there still remains much that cannot
+pass muster. Some of the grosser blunders have been rectified and
+lacunae filled up, but on the other hand a certain number of new
+mistakes appear. The very first sentence of the introduction is
+startlingly inaccurate; and later on, while mention is made of “an army
+of Japanese commentators” on Sun Tzŭ (who are these, by the way?), not
+a word is vouchsafed about the Chinese commentators, who nevertheless,
+I venture to assert, form a much more numerous and infinitely more
+important “army.”
+
+A few special features of the present volume may now be noticed. In
+the first place, the text has been cut up into numbered paragraphs,
+both in order to facilitate cross-reference and for the convenience of
+students generally. The division follows broadly that of Sun
+Hsing-yen’s edition; but I have sometimes found it desirable to join
+two or more of his paragraphs into one. In quoting from other works,
+Chinese writers seldom give more than the bare title by way of
+reference, and the task of research is apt to be seriously hampered in
+consequence. With a view to obviating this difficulty so far as Sun
+Tzŭ is concerned, I have also appended a complete concordance of
+Chinese characters, following in this the admirable example of Legge,
+though an alphabetical arrangement has been preferred to the
+distribution under radicals which he adopted. Another feature borrowed
+from “The Chinese Classics” is the printing of text, translation and
+notes on the same page; the notes, however, are inserted, according to
+the Chinese method, immediately after the passages to which they
+refer. From the mass of native commentary my aim has been to extract
+the cream only, adding the Chinese text here and there when it seemed
+to present points of literary interest. Though constituting in itself
+an important branch of Chinese literature, very little commentary of
+this kind has hitherto been made directly accessible by translation.[3]
+
+I may say in conclusion that, owing to the printing off of my
+sheets as they were completed, the work has not had the benefit of a
+final revision. On a review of the whole, without modifying the
+substance of my criticisms, I might have been inclined in a few
+instances to temper their asperity. Having chosen to wield a bludgeon,
+however, I shall not cry out if in return I am visited with more than
+a rap over the knuckles. Indeed, I have been at some pains to put a
+sword into the hands of future opponents by scrupulously giving either
+text or reference for every passage translated. A scathing review,
+even from the pen of the Shanghai critic who despises “mere
+translations,” would not, I must confess, be altogether unwelcome.
+For, after all, the worst fate I shall have to dread is that which
+befell the ingenious paradoxes of George in _The Vicar of Wakefield_.
+
+
+
+
+                           INTRODUCTION
+
+                        Sun Wu and his Book
+
+
+Ssŭ-ma Ch‘ien gives the following biography of Sun Tzŭ:[4]—
+
+  孫子武 Sun Tzŭ Wu was a native of the Ch‘i State. His _Art of War_
+  brought him to the notice of 闔廬 Ho Lu,[5] King of 吳 Wu. Ho Lu said
+  to him: I have carefully perused your 13 chapters. May I submit your
+  theory of managing soldiers to a slight test?
+
+  Sun Tzŭ replied: You may.
+
+  Ho Lu asked: May the test be applied to women?
+
+  The answer was again in the affirmative, so arrangements were made
+  to bring 180 ladies out of the Palace. Sun Tzŭ divided them into
+  two companies, and placed one of the King’s favourite concubines
+  at the head of each. He then bade them all take spears in their
+  hands, and addressed them thus: I presume you know the difference
+  between front and back, right hand and left hand?
+
+  The girls replied: Yes.
+
+  Sun Tzŭ went on: When I say “Eyes front,” you must look straight
+  ahead. When I say “Left turn,” you must face towards your left
+  hand. When I say “Right turn,” you must face towards your right
+  hand. When I say “About turn,” you must face right round towards
+  the back.
+
+  Again the girls assented. The words of command having been thus
+  explained, he set up the halberds and battle-axes in order to
+  begin the drill. Then, to the sound of drums, he gave the order
+  “Right turn.” But the girls only burst out laughing. Sun Tzŭ said:
+  If words of command are not clear and distinct, if orders are not
+  thoroughly understood, then the general is to blame.
+
+  So he started drilling them again, and this time gave the order
+  “Left turn,” whereupon the girls once more burst into fits of
+  laughter. Sun Tzŭ said: If words of command are not clear and
+  distinct, if orders are not thoroughly understood, the general is
+  to blame. But if his orders _are_ clear, and the soldiers
+  nevertheless disobey, then it is the fault of their officers.
+
+  So saying, he ordered the leaders of the two companies to be
+  beheaded. Now the King of Wu was watching the scene from the top
+  of a raised pavilion; and when he saw that his favourite
+  concubines were about to be executed, he was greatly alarmed and
+  hurriedly sent down the following message: We are now quite
+  satisfied as to our general’s ability to handle troops. If We are
+  bereft of these two concubines, our meat and drink will lose their
+  savour. It is our wish that they shall not be beheaded.
+
+  Sun Tzŭ replied: Having once received His Majesty’s commission to
+  be general of his forces, there are certain commands of His
+  Majesty which, acting in that capacity, I am unable to accept.
+
+  Accordingly, he had the two leaders beheaded, and straightway
+  installed the pair next in order as leaders in their place. When
+  this had been done, the drum was sounded for the drill once more;
+  and the girls went through all the evolutions, turning to the
+  right or to the left, marching ahead or wheeling back, kneeling or
+  standing, with perfect accuracy and precision, not venturing to
+  utter a sound. Then Sun Tzŭ sent a messenger to the King saying:
+  Your soldiers, Sire, are now properly drilled and disciplined, and
+  ready for Your Majesty’s inspection. They can be put to any use
+  that their sovereign may desire; bid them go through fire and
+  water, and they will not disobey.
+
+  But the King replied: Let our general cease drilling and return to
+  camp. As for us, We have no wish to come down and inspect the
+  troops.
+
+  Thereupon Sun Tzŭ said: The King is only fond of words, and cannot
+  translate them into deeds.
+
+  After that, Ho Lu saw that Sun Tzŭ was one who knew how to handle
+  an army, and finally appointed him general. In the West, he
+  defeated the Ch‘u State and forced his way into Ying, the capital;
+  to the north, he put fear into the States of Ch‘i and Chin, and
+  spread his fame abroad amongst the feudal princes. And Sun Tzŭ
+  shared in the might of the King.
+
+About Sun Tzŭ himself this is all that Ssŭ-ma Ch‘ien has to tell us in
+this chapter. But he proceeds to give a biography of his descendant,
+孫臏 Sun Pin, born about a hundred years after his famous ancestor’s
+death, and also the outstanding military genius of his time. The
+historian speaks of him too as Sun Tzŭ, and in his preface we read:
+孫子臏脚而論兵法 “Sun Tzŭ had his feet cut off and yet continued to
+discuss the art of war.”[6] It seems likely, then, that “Pin” was a
+nickname bestowed on him after his mutilation, unless indeed the story
+was invented in order to account for the name. The crowning incident
+of his career, the crushing defeat of his treacherous rival P‘ang
+Chüan, will be found briefly related on p. 40.
+
+To return to the elder Sun Tzŭ. He is mentioned in two other passages
+of the _Shih Chi_:—
+
+  In the third year of his reign [512 B.C.] Ho Lu, King of Wu, took
+  the field with 子胥 Tzŭ-hsü [i.e. 伍員 Wu Yüan] and 伯嚭 Po P‘ei,
+  and attacked Ch‘u. He captured the town of 舒 Shu and slew the two
+  prince’s sons who had formerly been generals of Wu. He was then
+  meditating a descent on 郢 Ying [the capital]; but the general Sun
+  Wu said: “The army is exhausted.[7] It is not yet possible. We
+  must wait”....[8] [After further successful fighting,] in the
+  ninth year [506 B.C.], King Ho Lu of Wu addressed Wu Tzŭ-hsü and
+  Sun Wu, saying: “Formerly, you declared that it was not yet
+  possible for us to enter Ying. Is the time ripe now?” The two men
+  replied: “Ch‘u’s general, 子常 Tzŭ-ch‘ang,[9] is grasping and
+  covetous, and the princes of 唐 T‘ang and 蔡 Ts‘ai both have a
+  grudge against him. If Your Majesty has resolved to make a grand
+  attack, you must win over T‘ang and Ts‘ai, and then you may
+  succeed.” Ho Lu followed this advice, [beat Ch‘u in five pitched
+  battles and marched into Ying].[10]
+
+This is the latest date at which anything is recorded of Sun Wu. He
+does not appear to have survived his patron, who died from the effects
+of a wound in 496.
+
+In the chapter entitled 律書 (the earlier portion of which M. Chavannes
+believes to be a fragment of a treatise on Military Weapons), there
+occurs this passage:[11]
+
+  From this time onward, a number of famous soldiers arose, one after
+  the other: 咎犯 Kao-fan,[12] who was employed by the Chin State;
+  Wang-tzŭ,[13] in the service of Ch‘i; and Sun Wu, in the service of
+  Wu. These men developed and threw light upon the principles of war
+  (申明軍約).
+
+It is obvious that Ssŭ-ma Ch‘ien at least had no doubt about the
+reality of Sun Wu as an historical personage; and with one exception,
+to be noticed presently, he is by far the most important authority on
+the period in question. It will not be necessary, therefore, to say
+much of such a work as the 吳越春秋 _Wu Yüeh Ch‘un Ch‘iu_, which is
+supposed to have been written by 趙曄 Chao Yeh of the 1st century A.D.
+The attribution is somewhat doubtful; but even if it were otherwise,
+his account would be of little value, based as it is on the _Shih Chi_
+and expanded with romantic details. The story of Sun Tzŭ will be
+found, for what it is worth, in chapter 2. The only new points in it
+worth noting are: 1) Sun Tzŭ was first recommended to Ho Lu by Wu
+Tzŭ-hsü. 2) He is called a native of Wu.[14] 3) He had previously
+lived a retired life, and his contemporaries were unaware of his
+ability.[15]
+
+The following passage occurs in 淮南子 Huai-nan Tzŭ: “When sovereign and
+ministers show perversity of mind, it is impossible even for a Sun Tzŭ
+to encounter the foe.”[16] Assuming that this work is genuine (and
+hitherto no doubt has been cast upon it), we have here the earliest
+direct reference to Sun Tzŭ, for Huai-nan Tzŭ died in 122 B.C., many
+years before the _Shih Chi_ was given to the world.
+
+劉向 Liu Hsiang (B.C. 80–9) in his 新序 says: “The reason why Sun Wu at
+the head of 30,000 men beat Ch‘u with 200,000 is that the latter were
+undisciplined.”[17]
+
+鄧名世 Têng Ming-shih in his 姓氏辨證書 (completed in 1134) informs us
+that the surname 孫 was bestowed on Sun Wu’s grandfather by 景公 Duke
+Ching of Ch‘i [547–490 B.C.]. Sun Wu’s father Sun 馮 P‘ing, rose to be
+a Minister of State in Ch‘i, and Sun Wu himself, whose style was 長卿
+Ch‘ang-ch‘ing, fled to Wu on account of the rebellion which was being
+fomented by the kindred of 田鮑 T‘ien Pao. He had three sons, of whom
+the second, named 明 Ming, was the father of Sun Pin. According to this
+account, then, Pin was the grandson of Wu,[18] which, considering that
+Sun Pin’s victory over 魏 Wei was gained in 341 B.C., may be dismissed
+as chronologically impossible. Whence these data were obtained by Têng
+Ming-shih I do not know, but of course no reliance whatever can be
+placed in them.
+
+An interesting document which has survived from the close of the Han
+period is the short preface written by the great 曹操 Ts‘ao Ts‘ao, or
+魏武帝 Wei Wu Ti, for his edition of Sun Tzŭ. I shall give it in full:—
+
+  I have heard that the ancients used bows and arrows to their
+  advantage.[19] The _Lun Yü_ says: “There must be a sufficiency of
+  military strength.”[20] The _Shu Ching_ mentions “the army” among
+  the “eight objects of government.”[21] The _I Ching_ says: “師
+  ‘army’ indicates firmness and justice; the experienced leader will
+  have good fortune.”[22] The _Shih Ching_ says: “The King rose
+  majestic in his wrath, and he marshalled his troops.”[23] The
+  Yellow Emperor, T‘ang the Completer and Wu Wang all used spears
+  and battle-axes in order to succour their generation. The _Ssŭ-ma
+  Fa_ says: “If one man slay another of set purpose, he himself may
+  rightfully be slain.”[24] He who relies solely on warlike measures
+  shall be exterminated; he who relies solely on peaceful measures
+  shall perish. Instances of this are Fu Ch‘ai[25] on the one hand
+  and Yen Wang on the other.[26] In military matters, the Sage’s
+  rule is normally to keep the peace, and to move his forces only
+  when occasion requires. He will not use armed force unless driven
+  to it by necessity.[27]
+
+  Many books have I read on the subject of war and fighting; but the
+  work composed by Sun Wu is the profoundest of them all. [Sun Tzŭ
+  was a native of the Ch‘i state, his personal name was Wu. He wrote
+  the _Art of War_ in 13 chapters for Ho Lü, King of Wu. Its
+  principles were tested on women, and he was subsequently made a
+  general. He led an army westwards, crushed the Ch‘u State and
+  entered Ying the capital. In the north, he kept Ch‘i and Chin in
+  awe. A hundred years and more after his time, Sun Pin lived. He
+  was a descendant of Wu].[28] In his treatment of deliberation and
+  planning, the importance of rapidity in taking the field,[29]
+  clearness of conception, and depth of design, Sun Tzŭ stands
+  beyond the reach of carping criticism. My contemporaries, however,
+  have failed to grasp the full meaning of his instructions, and
+  while putting into practice the smaller details in which his work
+  abounds, they have overlooked its essential purport. That is the
+  motive which has led me to outline a rough explanation of the
+  whole.[30]
+
+One thing to be noticed in the above is the explicit statement that
+the 13 chapters were specially composed for King Ho Lu. This is
+supported by the internal evidence of I. § 15, in which it seems clear
+that some ruler is addressed.
+
+In the bibliographical section of the _Han Shu_,[31] there is an
+entry which has given rise to much discussion: 吳孫子八十二篇圖九卷 “The
+works of Sun Tzŭ of Wu in 82 _p‘ien_ (or chapters), with diagrams in 9
+_chüan_.” It is evident that this cannot be merely the 13 chapters
+known to Ssŭ-ma Ch‘ien, or those we possess to-day. Chang Shou-chieh
+in his 史記正義 refers to an edition of Sun Tzŭ’s 兵法 of which the “13
+chapters” formed the first _chüan_, adding that there were two other
+_chüan_ besides.[32] This has brought forth a theory, that the bulk
+of these 82 chapters consisted of other writings of Sun Tzŭ—we should
+call them apocryphal—similar to the 問答 _Wên Ta_, of which a specimen
+dealing with the Nine Situations[33] is preserved in the 通典 _T‘ung
+Tien_, and another in Ho Shih’s commentary. It is suggested that
+before his interview with Ho Lu, Sun Tzŭ had only written the 13
+chapters, but afterwards composed a sort of exegesis in the form of
+question and answer between himself and the King. 畢以珣 Pi I-hsün,
+author of the 孫子敘錄 _Sun Tzŭ Hsü Lu_, backs this up with a quotation
+from the _Wu Yüeh Ch‘un Ch‘iu_: “The King of Wu summoned Sun Tzŭ, and
+asked him questions about the art of war. Each time he set forth a
+chapter of his work, the King could not find words enough to praise
+him.”[34] As he points out, if the whole work was expounded on the
+same scale as in the above-mentioned fragments, the total number of
+chapters could not fail to be considerable.[35] Then the numerous
+other treatises attributed to Sun Tzŭ[36] might also be included. The
+fact that the _Han Chih_ mentions no work of Sun Tzŭ except the 82
+_p‘ien_, whereas the Sui and T‘ang bibliographies give the titles of
+others in addition to the “13 chapters,” is good proof, Pi I-hsün
+thinks, that all of these were contained in the 82 _p‘ien_. Without
+pinning our faith to the accuracy of details supplied by the _Wu Yüeh
+Ch‘un Ch‘iu_, or admitting the genuineness of any of the treatises
+cited by Pi I-hsün, we may see in this theory a probable solution of
+the mystery. Between Ssŭ-ma Ch‘ien and Pan Ku there was plenty of time
+for a luxuriant crop of forgeries to have grown up under the magic
+name of Sun Tzŭ, and the 82 _p‘ien_ may very well represent a
+collected edition of these lumped together with the original work. It
+is also possible, though less likely, that some of them existed in the
+time of the earlier historian and were purposely ignored by him.[37]
+
+Tu Mu, after Ts‘ao Kung the most important commentator on Sun Tzŭ,
+composed the preface to his edition[38] about the middle of the ninth
+century. After a somewhat lengthy defence of the military art,[39] he
+comes at last to Sun Tzŭ himself, and makes one or two very startling
+assertions:—“The writings of Sun Wu,” he says, “originally comprised
+several hundred thousand words, but Ts‘ao Ts‘ao, the Emperor Wu Wei,
+pruned away all redundancies and wrote out the essence of the whole,
+so as to form a single book in 13 chapters.”[40] He goes on to remark
+that Ts‘ao Ts‘ao’s commentary on Sun Tzŭ leaves a certain proportion
+of difficulties unexplained. This, in Tu Mu’s opinion, does not
+necessarily imply that he was unable to furnish a complete
+commentary.[41] According to the _Wei Chih_, Ts‘ao himself wrote a
+book on war in something over 100,000 words, known as the 新書. It
+appears to have been of such exceptional merit that he suspects Ts‘ao
+to have used for it the surplus material which he had found in Sun
+Tzŭ. He concludes, however, by saying: “The _Hsin Shu_ is now lost, so
+that the truth cannot be known for certain.”[42]
+
+Tu Mu’s conjecture seems to be based on a passage in the 漢官解詁 “Wei
+Wu Ti strung together Sun Wu’s Art of War,”[43] which in turn may have
+resulted from a misunderstanding of the final words of Ts‘ao Kung’s
+preface: 故撰爲略解焉. This, as Sun Hsing-yen points out,[44] is only a
+modest way of saying that he made an explanatory paraphrase,[45] or in
+other words, wrote a commentary on it. On the whole, the theory has
+met with very little acceptance. Thus, the 四庫全書 says:[46] “The
+mention of the 13 chapters in the _Shih Chi_ shows that they were in
+existence before the _Han Chih_, and that later accretions are not to
+be considered part of the original work. Tu Mu’s assertion can
+certainly not be taken as proof.”[47]
+
+There is every reason to suppose, then, that the 13 chapters existed
+in the time of Ssŭ-ma Ch‘ien practically as we have them now. That the
+work was then well known he tells us in so many words: “Sun Tzŭ’s 13
+Chapters and Wu Ch‘i’s Art of War are the two books that people
+commonly refer to on the subject of military matters. Both of then are
+widely distributed, so I will not discuss them here.”[48] But as we go
+further back, serious difficulties begin to arise. The salient fact
+which has to be faced is that the _Tso Chuan_, the great contemporary
+record, makes no mention whatever of Sun Wu, either as a general or as
+a writer. It is natural, in view of this awkward circumstance, that
+many scholars should not only cast doubt on the story of Sun Wu as
+given in the _Shih Chi_, but even show themselves frankly sceptical as
+to the existence of the man at all. The most powerful presentment of
+this side of the case is to be found in the following disquisition by
+葉水心 Yeh Shui-hsin:[49]—
+
+  It is stated in Ssŭ-ma Ch‘ien’s history that Sun Wu was a native
+  of the Ch‘i State, and employed by Wu; and that in the reign of Ho
+  Lü he crushed Ch‘u, entered Ying, and was a great general. But in
+  Tso’s Commentary no Sun Wu appears at all. It is true that Tso’s
+  Commentary need not contain absolutely everything that other
+  histories contain. But Tso has not omitted to mention vulgar
+  plebeians and hireling ruffians such as Ying K‘ao-shu,[50] Ts‘ao
+  Kuei,[51] Chu Chih-wu[52] and Chuan Shê-chu.[53] In the case of
+  Sun Wu, whose fame and achievements were so brilliant, the
+  omission is much more glaring. Again, details are given, in their
+  due order, about his contemporaries Wu Yüan and the Minister
+  P‘ei.[54] Is it credible that Sun Wu alone should have been passed
+  over?[55]
+
+  In point of literary style, Sun Tzŭ’s work belongs to the same
+  school as _Kuan Tzŭ_,[56] the _Liu T‘ao_,[57] and the _Yüeh Yü_,[58]
+  and may have been the production of some private scholar living
+  towards the end of the “Spring and Autumn” or the beginning of the
+  “Warring States” period.[59] The story that his precepts were
+  actually applied by the Wu State, is merely the outcome of big
+  talk on the part of his followers.[60]
+
+  From the flourishing period of the Chou dynasty[61] down to the
+  time of the “Spring and Autumn,” all military commanders were
+  statesmen as well, and the class of professional generals, for
+  conducting external campaigns, did not then exist. It was not
+  until the period of the “Six States”[62] that this custom changed.
+  Now although Wu was an uncivilised State, is it conceivable that
+  Tso should have left unrecorded the fact that Sun Wu was a great
+  general and yet held no civil office? What we are told, therefore,
+  about Jang-chü[63] and Sun Wu, is not authentic matter, but the
+  reckless fabrication of theorising pundits. The story of Ho Lü’s
+  experiment on the women, in particular, is utterly preposterous
+  and incredible.[64]
+
+Yeh Shui-hsin represents Ssŭ-ma Ch‘ien as having said that Sun Wu
+crushed Ch‘u and entered Ying. This is not quite correct. No doubt the
+impression left on the reader’s mind is that he at least shared in
+these exploits; but the actual subject of the verbs 破, 入, 威 and 顯
+is certainly 闔廬, as is shown by the next words: 孫子與有力焉.[65]
+The fact may or may not be significant; but it is nowhere explicitly
+stated in the _Shih Chi_ either that Sun Tzŭ was general on the
+occasion of the taking of Ying, or that he even went there at all.
+Moreover, as we know that Wu Yüan and Po P‘ei both took part in the
+expedition, and also that its success was largely due to the dash and
+enterprise of 夫槩 Fu Kai, Ho Lu’s younger brother, it is not easy to
+see how yet another general could have played a very prominent part in
+the same campaign.
+
+陳振孫 Ch‘ên Chên-sun of the Sung dynasty has the note:[66]—
+
+  Military writers look upon Sun Wu as the father of their art. But
+  the fact that he does not appear in the _Tso Chuan_, although he
+  is said to have served under Ho Lü King of Wu, makes it uncertain
+  what period he really belonged to.[67]
+
+He also says:—
+
+  The works of Sun Wu and Wu Ch‘i may be of genuine antiquity.[68]
+
+It is noticeable that both Yeh Shui-hsin and Ch‘ên Chên-sun, while
+rejecting the personality of Sun Wu as he figures in Ssŭ-ma Ch‘ien’s
+history, are inclined to accept the date traditionally assigned to
+the work which passes under his name. The author of the _Hsü Lu_ fails
+to appreciate this distinction, and consequently his bitter attack
+on Ch‘ên Chên-sun really misses its mark. He makes one or two points,
+however, which certainly tell in favour of the high antiquity of
+our “13 chapters.” “Sun Tzŭ,” he says, “must have lived in the age
+of Ching Wang [519–476], because he is frequently plagiarised in
+subsequent works of the Chou, Ch‘in and Han dynasties.”[69] The two
+most shameless offenders in this respect are Wu Ch‘i and Huai-nan Tzŭ,
+both of them important historical personages in their day. The former
+lived only a century after the alleged date of Sun Tzŭ, and his death
+is known to have taken place in 381 B.C. It was to him, according to
+Liu Hsiang, that 曾申 Tsêng Shên delivered the _Tso Chuan_, which had
+been entrusted to him by its author.[70] Now the fact that quotations
+from the _Art of War_, acknowledged or otherwise, are to be found
+in so many authors of different epochs, establishes a very strong
+probability that there was some common source anterior to them all,—in
+other words, that Sun Tzŭ’s treatise was already in existence towards
+the end of the 5th century B.C. Further proof of Sun Tzŭ’s antiquity
+is furnished by the archaic or wholly obsolete meanings attaching to
+a number of the words he uses. A list of these, which might perhaps
+be extended, is given in the _Hsü Lu_; and though some of the
+interpretations are doubtful, the main argument is hardly affected
+thereby.[71] Again, it must not be forgotten that Yeh Shui-hsin, a
+scholar and critic of the first rank, deliberately pronounces the
+style of the 13 chapters to belong to the early part of the fifth
+century. Seeing that he is actually engaged in an attempt to disprove
+the existence of Sun Wu himself, we may be sure that he would not
+have hesitated to assign the work to a later date had he not honestly
+believed the contrary. And it is precisely on such a point that
+the judgment of an educated Chinaman will carry most weight. Other
+internal evidence is not far to seek. Thus, in XIII. § 1, there is an
+unmistakable allusion to the ancient system of land-tenure which had
+already passed away by the time of Mencius, who was anxious to see it
+revived in a modified form.[72] The only warfare Sun Tzŭ knows is that
+carried on between the various feudal princes (諸侯), in which armoured
+chariots play a large part. Their use seems to have entirely died out
+before the end of the Chou dynasty. He speaks as a man of Wu, a state
+which ceased to exist as early as 473 B.C. On this I shall touch
+presently.
+
+But once refer the work to the 5th century or earlier, and the
+chances of its being other than a _bonâ fide_ production are sensibly
+diminished. The great age of forgeries did not come until long after.
+That it should have been forged in the period immediately following
+473 is particularly unlikely, for no one, as a rule, hastens to
+identify himself with a lost cause. As for Yeh Shui-hsin’s theory,
+that the author was a literary recluse,[73] that seems to me quite
+untenable. If one thing is more apparent than another after reading
+the maxims of Sun Tzŭ, it is that their essence has been distilled
+from a large store of personal observation and experience. They
+reflect the mind not only of a born strategist, gifted with a rare
+faculty of generalisation, but also of a practical soldier closely
+acquainted with the military conditions of his time. To say nothing
+of the fact that these sayings have been accepted and endorsed by all
+the greatest captains of Chinese history, they offer a combination
+of freshness and sincerity, acuteness and common sense, which quite
+excludes the idea that they were artificially concocted in the study.
+If we admit, then, that the 13 chapters were the genuine production of
+a military man living towards the end of the “Ch‘un Ch‘iu” period, are
+we not bound, in spite of the silence of the _Tso Chuan_, to accept
+Ssŭ-ma Ch‘ien’s account in its entirety? In view of his high repute as
+a sober historian, must we not hesitate to assume that the records he
+drew upon for Sun Wu’s biography were false and untrustworthy? The
+answer, I fear, must be in the negative. There is still one grave, if
+not fatal, objection to the chronology involved in the story as told
+in the _Shih Chi_, which, so far as I am aware, nobody has yet
+pointed out. There are two passages in Sun Tzŭ in which he alludes
+to contemporary affairs. The first is in VI. § 21:—
+
+  Though according to my estimate the soldiers of Yüeh exceed our
+  own in number, that shall advantage them nothing in the matter of
+  victory. I say then that victory can be achieved.
+
+The other is in XI. § 30:—
+
+  Asked if an army can be made to imitate the _shuai-jan_, I should
+  answer, Yes. For the men of Wu and the men of Yüeh are enemies;
+  yet if they are crossing a river in the same boat and are caught
+  by a storm, they will come to each other’s assistance just as the
+  left hand helps the right.
+
+These two paragraphs are extremely valuable as evidence of the date of
+composition. They assign the work to the period of the struggle
+between Wu and Yüeh. So much has been observed by Pi I-hsün. But what
+has hitherto escaped notice is that they also seriously impair the
+credibility of Ssŭ-ma Ch‘ien’s narrative. As we have seen above, the
+first positive date given in connection with Sun Wu is 512 B.C. He is
+then spoken of as a general, acting as confidential adviser to Ho Lu,
+so that his alleged introduction to that monarch had already taken
+place, and of course the 13 chapters must have been written earlier
+still. But at that time, and for several years after, down to the
+capture of Ying in 506, 楚 Ch‘u, and not Yüeh, was the great hereditary
+enemy of Wu. The two states, Ch‘u and Wu, had been constantly at war
+for over half a century,[74] whereas the first war between Wu and Yüeh
+was waged only in 510,[75] and even then was no more than a short
+interlude sandwiched in the midst of the fierce struggle with Ch‘u.
+Now Ch‘u is not mentioned in the 13 chapters at all. The natural
+inference is that they were written at a time when Yüeh had become the
+prime antagonist of Wu, that is, after Ch‘u had suffered the great
+humiliation of 506. At this point, a table of dates may be found useful.
+
+  B.C.
+
+  514 Accession of Ho Lu.
+
+  512 Ho Lu attacks Ch‘u, but is dissuaded from entering 郢 Ying, the
+      capital. _Shih Chi_ mentions Sun Wu as general.
+
+  511 Another attack on Ch‘u.
+
+  510 Wu makes a successful attack on Yüeh. This is the first war
+      between the two states.
+
+  509 Ch‘u invades Wu, but is signally defeated at 豫章 Yü-chang.
+  or
+  508
+
+  506 Ho Lu attacks Ch‘u with the aid of T‘ang and Ts‘ai. Decisive
+      battle of 柏舉 Po-chü, and capture of Ying. Last mention
+      of Sun Wu in _Shih Chi_.
+
+  505 Yüeh makes a raid on Wu in the absence of its army. Wu is
+      beaten by Ch‘in and evacuates Ying.
+
+  504 Ho Lu sends 夫差 Fu Ch‘ai to attack Ch‘u.
+
+  497 勾踐 Kou Chien becomes King of Yüeh.
+
+  496 Wu attacks Yüeh, but is defeated by Kou Chien at 檇李 Tsui-li.
+      Ho Lu is killed.
+
+  494 Fu Ch‘ai defeats Kou Chien in the great battle of 夫椒 Fu-chiao,
+      and enters the capital of Yüeh.
+
+  485 Kou Chien renders homage to Wu. Death of Wu Tzŭ-hsü.
+  or
+  484
+
+  482 Kou Chien invades Wu in the absence of Fu Ch‘ai.
+
+  478 Further attacks by Yüeh on Wu.
+  to
+  476
+
+  475 Kou Chien lays siege to the capital of Wu.
+
+  473 Final defeat and extinction of Wu.
+
+The sentence quoted above from VI. § 21 hardly strikes me as one that
+could have been written in the full flush of victory. It seems rather
+to imply that, for the moment at least, the tide had turned against
+Wu, and that she was getting the worst of the struggle. Hence we may
+conclude that our treatise was not in existence in 505, before which
+date Yüeh does not appear to have scored any notable success against
+Wu. Ho Lu died in 496, so that if the book was written for him, it
+must have been during the period 505–496, when there was a lull in
+the hostilities, Wu having presumably been exhausted by its supreme
+effort against Ch‘u. On the other hand, if we choose to disregard the
+tradition connecting Sun Wu’s name with Ho Lu, it might equally well
+have seen the light between 496 and 494, or possibly in the period
+482–473, when Yüeh was once again becoming a very serious menace.[76]
+We may feel fairly certain that the author, whoever he may have been,
+was not a man of any great eminence in his own day. On this point
+the negative testimony of the _Tso Chuan_ far outweighs any shred of
+authority still attaching to the _Shih Chi_, if once its other facts
+are discredited. Sun Hsing-yen, however, makes a feeble attempt to
+explain the omission of his name from the great commentary. It was Wu
+Tzŭ-hsü, he says, who got all the credit of Sun Wu’s exploits, because
+the latter (being an alien) was not rewarded with an office in the
+State.[77]
+
+How then did the Sun Tzŭ legend originate? It may be that the growing
+celebrity of the book imparted by degrees a kind of factitious renown
+to its author. It was felt to be only right and proper that one so
+well versed in the science of war should have solid achievements
+to his credit as well. Now the capture of Ying was undoubtedly the
+greatest feat of arms in Ho Lu’s reign; it made a deep and lasting
+impression on all the surrounding states, and raised Wu to the
+short-lived zenith of her power. Hence, what more natural, as time
+went on, than that the acknowledged master of strategy, Sun Wu, should
+be popularly identified with that campaign, at first perhaps only in
+the sense that his brain conceived and planned it; afterwards, that it
+was actually carried out by him in conjunction with Wu Yüan,[78] Po
+P‘ei and Fu Kai?
+
+It is obvious that any attempt to reconstruct even the outline of Sun
+Tzŭ’s life must be based almost wholly on conjecture. With this
+necessary proviso, I should say that he probably entered the service
+of Wu about the time of Ho Lu’s accession, and gathered experience,
+though only in the capacity of a subordinate officer, during the
+intense military activity which marked the first half of that prince’s
+reign.[79] If he rose to be a general at all, he certainly was never
+on an equal footing with the three above mentioned. He was doubtless
+present at the investment and occupation of Ying, and witnessed Wu’s
+sudden collapse in the following year. Yüeh’s attack at this critical
+juncture, when her rival was embarrassed on every side, seems to have
+convinced him that this upstart kingdom was the great enemy against
+whom every effort would henceforth have to be directed. Sun Wu was
+thus a well-seasoned warrior when he sat down to write his famous
+book, which according to my reckoning must have appeared towards the
+end, rather than the beginning, of Ho Lu’s reign. The story of the
+women may possibly have grown out of some real incident occurring
+about the same time. As we hear no more of Sun Wu after this from any
+source, he is hardly likely to have survived his patron or to have
+taken part in the death-struggle with Yüeh, which began with the
+disaster at Tsui-li.
+
+If these inferences are approximately correct, there is a certain
+irony in the fate which decreed that China’s most illustrious man
+of peace should be contemporary with her greatest writer on war.
+
+
+The Text of Sun Tzŭ.
+
+I have found it difficult to glean much about the history of Sun Tzŭ’s
+text. The quotations that occur in early authors go to show that the
+“13 chapters” of which Ssŭ-ma Ch‘ien speaks were essentially the same
+as those now extant. We have his word for it that they were widely
+circulated in his day, and can only regret that he refrained from
+discussing them on that account.[80] Sun Hsing-yen says in his preface:—
+
+  During the Ch‘in and Han dynasties Sun Tzŭ’s _Art of War_ was in
+  general use amongst military commanders, but they seem to have
+  treated it as a work of mysterious import, and were unwilling to
+  expound it for the benefit of posterity. Thus it came about that
+  Wei Wu was the first to write a commentary on it.[81]
+
+As we have already seen, there is no reasonable ground to suppose that
+Ts‘ao Kung tampered with the text. But the text itself is often so
+obscure, and the number of editions which appeared from that time
+onward so great, especially during the T‘ang and Sung dynasties, that
+it would be surprising if numerous corruptions had not managed to
+creep in. Towards the middle of the Sung period, by which time all the
+chief commentaries on Sun Tzŭ were in existence, a certain 吉天保 Chi
+T‘ien-pao published a work in 15 _chüan_ entitled 十家孫子會注 “Sun Tzŭ
+with the collected commentaries of ten writers.”[82] There was another
+text, with variant readings put forward by Chu Fu of 大興 Ta-hsing,[83]
+which also had supporters among the scholars of that period; but in
+the Ming editions, Sun Hsing-yen tells us, these readings were for
+some reason or other no longer put into circulation.[84] Thus, until
+the end of the 18th century, the text in sole possession of the field
+was one derived from Chi T‘ien-pao’s edition, although no actual copy
+of that important work was known to have survived. That, therefore,
+is the text of Sun Tzŭ which appears in the War section of the great
+Imperial encyclopaedia printed in 1726, the 古今圖書集成 _Ku Chin T‘u
+Shu Chi Ch‘êng_. Another copy at my disposal of what is practically
+the same text, with slight variations, is that contained in the
+周秦十一子 “Eleven philosophers of the Chou and Ch‘in dynasties”
+[1758]. And the Chinese printed in Capt. Calthrop’s first edition
+is evidently a similar version which has filtered through Japanese
+channels. So things remained until 孫星衍 Sun Hsing-yen [1752–1818], a
+distinguished antiquarian and classical scholar,[85] who claimed to be
+an actual descendant of Sun Wu,[86] accidentally discovered a copy of
+Chi T‘ien-pao’s long-lost work, when on a visit to the library of the
+華陰 Hua-yin temple.[87] Appended to it was the 遺說 _I Shuo_ of 鄭友賢
+Chêng Yu-hsien, mentioned in the _T‘ung Chih_, and also believed to
+have perished.[88] This is what Sun Hsing-yen designates as the 古本
+or 原本 “original edition (or text)”—a rather misleading name, for it
+cannot by any means claim to set before us the text of Sun Tzŭ in
+its pristine purity. Chi T‘ien-pao was a careless compiler,[89] and
+appears to have been content to reproduce the somewhat debased version
+current in his day, without troubling to collate it with the earliest
+editions then available. Fortunately, two versions of Sun Tzŭ, even
+older than the newly discovered work, were still extant, one buried
+in the _T‘ung Tien_, Tu Yu’s great treatise on the Constitution, the
+other similarly enshrined in the _T‘ai P‘ing Yü Lan_ encyclopaedia. In
+both the complete text is to be found, though split up into fragments,
+intermixed with other matter, and scattered piecemeal over a number of
+different sections. Considering that the _Y‘ü Lan_ takes us back to
+the year 983, and the _T‘ung Tien_ about 200 years further still, to
+the middle of the T‘ang dynasty, the value of these early transcripts
+of Sun Tzŭ can hardly be overestimated. Yet the idea of utilising them
+does not seem to have occurred to anyone until Sun Hsing-yen, acting
+under Government instructions, undertook a thorough recension of the
+text. This is his own account:—
+
+  Because of the numerous mistakes in the text of Sun Tzŭ which his
+  editors had handed down, the Government ordered that the ancient
+  edition [of Chi T‘ien-pao] should be used, and that the text
+  should be revised and corrected throughout. It happened that Wu
+  Nien-hu, the Governor Pi Kua, and Hsi, a graduate of the second
+  degree, had all devoted themselves to this study, probably
+  surpassing me therein. Accordingly, I have had the whole work cut
+  on blocks as a text-book for military men.[90]
+
+The three individuals here referred to had evidently been occupied on
+the text of Sun Tzŭ prior to Sun Hsing-yen’s commission, but we are
+left in doubt as to the work they really accomplished. At any rate,
+the new edition, when ultimately produced, appeared in the names of
+Sun Hsing-yen and only one co-editor, 吳人驥 Wu Jên-chi. They took the
+“original text” as their basis, and by careful comparison with the
+older versions, as well as the extant commentaries and other sources
+of information such as the _I Shuo_, succeeded in restoring a very
+large number of doubtful passages, and turned out, on the whole, what
+must be accepted as the closest approximation we are ever likely to
+get to Sun Tzŭ’s original work. This is what will hereafter be
+denominated the “standard text.”
+
+The copy which I have used belongs to a re-issue dated 1877. It is in
+6 _pên_, forming part of a well-printed set of 23 early philosophical
+works in 83 _pên_.[91] It opens with a preface by Sun Hsing-yen
+(largely quoted in this introduction), vindicating the traditional
+view of Sun Tzŭ’s life and performances, and summing up in remarkably
+concise fashion the evidence in its favour. This is followed by Ts‘ao
+Kung’s preface to his edition, and the biography of Sun Tzŭ from
+the _Shih Chi_, both translated above. Then come, firstly, Chêng
+Yu-hsien’s _I Shuo_,[92] with author’s preface, and next, a short
+miscellany of historical and bibliographical information entitled
+孫子敘錄 _Sun Tzŭ Hsü Lu_, compiled by 畢以珣 Pi I-hsün. As regards the
+body of the work, each separate sentence is followed by a note on the
+text, if required, and then by the various commentaries appertaining
+to it, arranged in chronological order. These we shall now proceed to
+discuss briefly, one by one.
+
+
+The Commentators.
+
+Sun Tzŭ can boast an exceptionally long and distinguished roll of
+commentators, which would do honour to any classic. 歐陽修 Ou-yang Hsiu
+remarks on this fact, though he wrote before the tale was complete,
+and rather ingeniously explains it by saying that the artifices of
+war, being inexhaustible, must therefore be susceptible of treatment
+in a great variety of ways.[93]
+
+1. 曹操 Ts‘ao Ts‘ao or 曹公 Ts‘ao Kung, afterwards known as 魏武帝 Wei
+Wu Ti [A.D. 155–220]. There is hardly any room for doubt that the
+earliest commentary on Sun Tzŭ actually came from the pen of this
+extraordinary man, whose biography in the _San Kuo Chih_[94] reads
+like a romance. One of the greatest military geniuses that the world
+has seen, and Napoleonic in the scale of his operations, he was
+especially famed for the marvellous rapidity of his marches, which has
+found expression in the line 說曹操曹操就到 “Talk of Ts‘ao Ts‘ao, and
+Ts‘ao Ts‘ao will appear.” Ou-yang Hsiu says of him that he was a great
+captain who “measured his strength against Tung Cho, Lü Pu and the two
+Yüan, father and son, and vanquished them all; whereupon he divided
+the Empire of Han with Wu and Shu, and made himself king. It is
+recorded that whenever a council of war was held by Wei on the eve
+of a far-reaching campaign, he had all his calculations ready; those
+generals who made use of them did not lose one battle in ten;
+those who ran counter to them in any particular saw their armies
+incontinently beaten and put to flight.”[95] Ts‘ao Kung’s notes on Sun
+Tzŭ, models of austere brevity, are so thoroughly characteristic
+of the stern commander known to history, that it is hard indeed to
+conceive of them as the work of a mere _littérateur_. Sometimes,
+indeed, owing to extreme compression, they are scarcely intelligible
+and stand no less in need of a commentary than the text itself.[96] As
+we have seen, Ts‘ao Kung is the reputed author of the 新書, a book on
+war in 100,000 odd words, now lost, but mentioned in the 魏志.[97]
+
+2. 孟氏 Mêng Shih. The commentary which has come down to us under this
+name is comparatively meagre, and nothing about the author is known.
+Even his personal name has not been recorded. Chi T‘ien-pao’s edition
+places him after Chia Lin, and 鼂公武 Ch‘ao Kung-wu also assigns him to
+the T‘ang dynasty,[98] but this is obviously a mistake, as his work is
+mentioned in the 隋書經籍志. In Sun Hsing-yen’s preface, he appears as
+Mêng Shih of the Liang dynasty [502–557]. Others would identify him
+with 孟康 Mêng K‘ang of the 3rd century. In the 宋史藝文志,[99] he is
+named last of the 五家 “Five Commentators,” the others being Wei Wu Ti,
+Tu Mu, Ch‘ên Hao and Chia Lin.
+
+3. 李筌 Li Ch‘üan of the 8th century was a well-known writer on
+military tactics. His 太白陰經 has been in constant use down to the
+present day. The 通志 mentions 閫外春秋 (lives of famous generals from
+the Chou to the T‘ang dynasty) as written by him.[100] He is also
+generally supposed to be the real author of the popular Taoist
+tract, the 陰符經. According to Ch‘ao Kung-wu and the _T‘ien-i-ko_
+catalogue,[101] he followed the 太乙遁甲 text of Sun Tzŭ, which differs
+considerably from those now extant. His notes are mostly short and to
+the point, and he frequently illustrates his remarks by anecdotes from
+Chinese history.
+
+4. 杜佑 Tu Yu (died 812) did not publish a separate commentary on Sun
+Tzŭ, his notes being taken from the _T‘ung Tien_, the encyclopaedic
+treatise on the Constitution which was his life-work. They are largely
+repetitions of Ts‘ao Kung and Mêng Shih, besides which it is believed
+that he drew on the ancient commentaries of 王凌 Wang Ling and others.
+Owing to the peculiar arrangement of the _T‘ung Tien_, he has to explain
+each passage on its merits, apart from the context, and sometimes his
+own explanation does not agree with that of Ts‘ao Kung, whom he always
+quotes first. Though not strictly to be reckoned as one of the “Ten
+Commentators,” he was added to their number by Chi T‘ien-pao, being
+wrongly placed after his grandson Tu Mu.
+
+5. 杜牧 Tu Mu (803–852) is perhaps best known as a poet—a bright star
+even in the glorious galaxy of the T‘ang period. We learn from Ch‘ao
+Kung-wu that although he had no practical experience of war, he was
+extremely fond of discussing the subject, and was moreover well read
+in the military history of the _Ch‘un Ch‘iu_ and _Chan Kuo_ eras.[102]
+His notes, therefore, are well worth attention. They are very copious,
+and replete with historical parallels. The gist of Sun Tzŭ’s work is
+thus summarised by him: “Practise benevolence and justice, but on the
+other hand make full use of artifice and measures of expediency.”[103]
+He further declared that all the military triumphs and disasters of
+the thousand years which had elapsed since Sun Wu’s death would, upon
+examination, be found to uphold and corroborate, in every particular,
+the maxims contained in his book.[104] Tu Mu’s somewhat spiteful
+charge against Ts‘ao Kung has already been considered elsewhere.
+
+6. 陳皥 Ch‘ên Hao appears to have been a contemporary of Tu Mu. Ch‘ao
+Kung-wu says that he was impelled to write a new commentary on Sun Tzŭ
+because Ts‘ao Kung’s on the one hand was too obscure and subtle, and
+that of Tu Mu on the other too long-winded and diffuse.[105] Ou-yang
+Hsiu, writing in the middle of the 11th century, calls Ts‘ao Kung, Tu
+Mu and Ch‘ên Hao the three chief commentators on Sun Tzŭ (三家), and
+observes that Ch‘ên Hao is continually attacking Tu Mu’s shortcomings.
+His commentary, though not lacking in merit, must rank below those of
+his predecessors.
+
+7. 賈林 Chia Lin is known to have lived under the T‘ang dynasty, for
+his commentary on Sun Tzŭ is mentioned in the 唐書 and was afterwards
+republished by 紀燮 Chi Hsieh of the same dynasty together with those
+of Mêng Shih and Tu Yu.[106] It is of somewhat scanty texture, and in
+point of quality, too, perhaps the least valuable of the eleven.
+
+8. 梅堯臣 Mei Yao-ch‘ên (1002–1060), commonly known by his “style”
+as Mei 聖兪 Shêng-yü, was, like Tu Mu, a poet of distinction. His
+commentary was published with a laudatory preface by the great Ou-yang
+Hsiu, from which we may cull the following:—
+
+  Later scholars have misread Sun Tzŭ, distorting his words and
+  trying to make them square with their own one-sided views. Thus,
+  though commentators have not been lacking, only a few have proved
+  equal to the task. My friend Shêng-yü has not fallen into this
+  mistake. In attempting to provide a critical commentary for Sun
+  Tzŭ’s work, he does not lose sight of the fact that these sayings
+  were intended for states engaged in internecine warfare; that the
+  author is not concerned with the military conditions prevailing
+  under the sovereigns of the three ancient dynasties,[107] nor with
+  the nine punitive measures prescribed to the Minister of War.[108]
+  Again, Sun Wu loved brevity of diction, but his meaning is always
+  deep. Whether the subject be marching an army, or handling
+  soldiers, or estimating the enemy, or controlling the forces of
+  victory, it is always systematically treated; the sayings are
+  bound together in strict logical sequence, though this has been
+  obscured by commentators who have probably failed to grasp their
+  meaning. In his own commentary, Mei Shêng-yü has brushed aside all
+  the obstinate prejudices of these critics, and has tried to bring
+  out the true meaning of Sun Tzŭ himself. In this way, the clouds
+  of confusion have been dispersed and the sayings made clear. I am
+  convinced that the present work deserves to be handed down side by
+  side with the three great commentaries; and for a great deal that
+  they find in the sayings, coming generations will have constant
+  reason to thank my friend Shêng-yü.[109]
+
+Making some allowance for the exuberance of friendship, I am inclined
+to endorse this favourable judgment, and would certainly place him
+above Ch‘ên Hao in order of merit.
+
+9. 王晳 Wang Hsi, also of the Sung dynasty, is decidedly original
+in some of his interpretations, but much less judicious than Mei
+Yao-ch‘ên, and on the whole not a very trustworthy guide. He is fond
+of comparing his own commentary with that of Ts‘ao Kung, but the
+comparison is not often flattering to him. We learn from Ch‘ao Kung-wu
+that Wang Hsi revised the ancient text of Sun Tzŭ, filling up lacunae
+and correcting mistakes.[110]
+
+10. 何延錫 Ho Yen-hsi of the Sung dynasty. The personal name of this
+commentator is given as above by 鄭樵 Chêng Ch‘iao in the _T‘ung Chih_,
+written about the middle of the twelfth century, but he appears simply
+as 何氏 Ho Shih in the _Yü Hai_, and Ma Tuan-lin quotes Ch‘ao Kung-wu
+as saying that his personal name is unknown. There seems to be no
+reason to doubt Chêng Ch‘iao’s statement, otherwise I should have
+been inclined to hazard a guess and identify him with one 何去非
+Ho Ch‘ü-fei, the author of a short treatise on war entitled 備論,
+who lived in the latter part of the 11th century.[111] Ho Shih’s
+commentary, in the words of the _T‘ien-i-ko_ catalogue, 有所裨益
+“contains helpful additions” here and there, but is chiefly remarkable
+for the copious extracts taken, in adapted form, from the dynastic
+histories and other sources.
+
+11. 張預 Chang Yü. The list closes with a commentator of no great
+originality perhaps, but gifted with admirable powers of lucid
+exposition. His commentary is based on that of Ts‘ao Kung, whose terse
+sentences he contrives to expand and develop in masterly fashion.
+Without Chang Yü, it is safe to say that much of Ts‘ao Kung’s
+commentary would have remained cloaked in its pristine obscurity and
+therefore valueless. His work is not mentioned in the Sung history,
+the _T‘ung K‘ao_, or the _Yü Hai_, but it finds a niche in the _T‘ung
+Chih_, which also names him as the author of the 百將傳 “Lives of
+Famous Generals.”[112]
+
+It is rather remarkable that the last-named four should all have
+flourished within so short a space of time. Ch‘ao Kung-wu accounts for
+it by saying: “During the early years of the Sung dynasty the Empire
+enjoyed a long spell of peace, and men ceased to practise the art
+of war. But when [Chao] Yüan-hao’s rebellion came [1038–42] and the
+frontier generals were defeated time after time, the Court made
+strenuous enquiry for men skilled in war, and military topics became
+the vogue amongst all the high officials. Hence it is that the
+commentators of Sun Tzŭ in our dynasty belong mainly to that
+period.”[113]
+
+Besides these eleven commentators, there are several others whose work
+has not come down to us. The _Sui Shu_ mentions four, namely 王凌 Wang
+Ling (often quoted by Tu Yu as 王子); 張子尙 Chang Tzŭ-shang; 賈詡 Chia
+Hsü of 魏 Wei;[114] and 沈友 Shên Yu of 吳 Wu. The _T‘ang Shu_ adds
+孫鎬 Sun Hao, and the _T‘ung Chih_ 蕭吉 Hsiao Chi, while the _T‘u Shu_
+mentions a Ming commentator, 黃潤玉 Huang Jun-yü. It is possible that
+some of these may have been merely collectors and editors of other
+commentaries, like Chi T‘ien-pao and Chi Hsieh, mentioned above.
+Certainly in the case of the latter, the entry 紀夑注孫子 in the _T‘ung
+K‘ao_, without the following note, would give one to understand that
+he had written an independent commentary of his own.
+
+There are two works, described in the _Ssu K‘u Ch‘üan Shu_[115] and no
+doubt extremely rare, which I should much like to have seen. One is
+entitled 孫子參同, in 5 _chüan_. It gives selections from four new
+commentators, probably of the Ming dynasty, as well as from the eleven
+known to us. The names of the four are 解元 Hsieh Yüan; 張鏊 Chang Ao;
+李村 Li Ts‘ai; and 黃治徵 Huang Chih-chêng. The other work is 孫子彚徵
+in 4 _chüan_, compiled by 鄭端 Chêng Tuan of the present dynasty. It is
+a compendium of information on ancient warfare, with special reference
+to Sun Tzŭ’s 13 chapters.
+
+
+Appreciations of Sun Tzŭ.
+
+Sun Tzŭ has exercised a potent fascination over the minds of some of
+China’s greatest men. Among the famous generals who are known to have
+studied his pages with enthusiasm may be mentioned 韓信 Han Hsin (_d_.
+B.C. 196),[116] 馮異 Fêng I (d. A.D. 34),[117] 呂蒙 Lü Mêng (_d_.
+219),[118] and 岳飛 Yo Fei (1103–1141).[119] The opinion of Ts‘ao Kung,
+who disputes with Han Hsin the highest place in Chinese military
+annals, has already been recorded.[120] Still more remarkable, in one
+way, is the testimony of purely literary men, such as 蘇洵 Su Hsün (the
+father of Su Tung-p‘o), who wrote several essays on military topics,
+all of which owe their chief inspiration to Sun Tzŭ. The following
+short passage by him is preserved in the _Yü Hai:_[121]—
+
+  Sun Wu’s saying, that in war one cannot make certain of
+  conquering,[122] is very different indeed from what other books
+  tell us.[123] Wu Ch‘i was a man of the same stamp as Sun Wu: they
+  both wrote books on war, and they are linked together in popular
+  speech as “Sun and Wu.” But Wu Ch‘i’s remarks on war are less
+  weighty, his rules are rougher and more crudely stated, and there
+  is not the same unity of plan as in Sun Tzŭ’s work, where the
+  style is terse, but the meaning fully brought out.[124]
+
+The 性理彚要, ch. 17, contains the following extract from the 藝圃折衷
+“Impartial Judgments in the Garden of Literature” by 鄭厚 Chêng Hou:—
+
+  Sun Tzŭ’s 13 chapters are not only the staple and base of all
+  military men’s training, but also compel the most careful
+  attention of scholars and men of letters. His sayings are terse
+  yet elegant, simple yet profound, perspicuous and eminently
+  practical. Such works as the _Lun Yü_, the _I Ching_ and the great
+  Commentary,[125] as well as the writings of Mencius, Hsün K‘uang
+  and Yang Chu, all fall below the level of Sun Tzŭ.[126]
+
+Chu Hsi, commenting on this, fully admits the first part of the
+criticism, although he dislikes the audacious comparison with
+the venerated classical works. Language of this sort, he says,
+“encourages a ruler’s bent towards unrelenting warfare and reckless
+militarism.”[127]
+
+
+Apologies for War.
+
+Accustomed as we are to think of China as the greatest peace-loving
+nation on earth, we are in some danger of forgetting that her
+experience of war in all its phases has also been such as no modern
+State can parallel. Her long military annals stretch back to a point
+at which they are lost in the mists of time. She had built the Great
+Wall and was maintaining a huge standing army along her frontier
+centuries before the first Roman legionary was seen on the Danube.
+What with the perpetual collisions of the ancient feudal States,
+the grim conflicts with Huns, Turks and other invaders after the
+centralisation of government, the terrific upheavals which accompanied
+the overthrow of so many dynasties, besides the countless rebellions
+and minor disturbances that have flamed up and flickered out again one
+by one, it is hardly too much to say that the clash of arms has never
+ceased to resound in one portion or another of the Empire.
+
+No less remarkable is the succession of illustrious captains to whom
+China can point with pride. As in all countries, the greatest are
+found emerging at the most fateful crises of her history. Thus, Po
+Ch‘i stands out conspicuous in the period when Ch‘in was entering upon
+her final struggle with the remaining independent states. The stormy
+years which followed the break-up of the Ch‘in dynasty are illumined
+by the transcendent genius of Han Hsin. When the House of Han in turn
+is tottering to its fall, the great and baleful figure of Ts‘ao Ts‘ao
+dominates the scene. And in the establishment of the T‘ang dynasty,
+one of the mightiest tasks achieved by man, the superhuman energy of
+Li Shih-min (afterwards the Emperor T‘ai Tsung) was seconded by the
+brilliant strategy of Li Ching. None of these generals need fear
+comparison with the greatest names in the military history of Europe.
+
+In spite of all this, the great body of Chinese sentiment, from Lao
+Tzŭ downwards, and especially as reflected in the standard literature
+of Confucianism, has been consistently pacific and intensely opposed
+to militarism in any form. It is such an uncommon thing to find any of
+the literati defending warfare on principle, that I have thought it
+worth while to collect and translate a few passages in which the
+unorthodox view is upheld. The following, by Ssŭ-ma Ch‘ien, shows that
+for all his ardent admiration of Confucius, he was yet no advocate of
+peace at any price:—
+
+  Military weapons are the means used by the Sage to punish
+  violence and cruelty, to give peace to troublous times, to remove
+  difficulties and dangers, and to succour those who are in peril.
+  Every animal with blood in its veins and horns on its head will
+  fight when it is attacked. How much more so will man, who carries
+  in his breast the faculties of love and hatred, joy and anger!
+  When he is pleased, a feeling of affection springs up within him;
+  when angry, his poisoned sting is brought into play. That is the
+  natural law which governs his being.... What then shall be said of
+  those scholars of our time, blind to all great issues, and without
+  any appreciation of relative values, who can only bark out their
+  stale formulas about “virtue” and “civilisation,” condemning the
+  use of military weapons? They will surely bring our country to
+  impotence and dishonour and the loss of her rightful heritage; or,
+  at the very least, they will bring about invasion and rebellion,
+  sacrifice of territory and general enfeeblement. Yet they
+  obstinately refuse to modify the position they have taken up. The
+  truth is that, just as in the family the teacher must not spare
+  the rod, and punishments cannot be dispensed with in the State, so
+  military chastisement can never be allowed to fall into abeyance
+  in the Empire. All one can say is that this power will be
+  exercised wisely by some, foolishly by others, and that among
+  those who bear arms some will be loyal and others rebellious.[128]
+
+The next piece is taken from Tu Mu’s preface to his commentary on
+Sun Tzŭ:—
+
+  War may be defined as punishment, which is one of the functions of
+  government. It was the profession of Chung Yu and Jan Ch‘iu, both
+  disciples of Confucius. Nowadays, the holding of trials and
+  hearing of litigation, the imprisonment of offenders and their
+  execution by flogging in the market-place, are all done by
+  officials. But the wielding of huge armies, the throwing down of
+  fortified cities, the haling of women and children into captivity,
+  and the beheading of traitors—this is also work which is done by
+  officials. The objects of the rack[129] and of military weapons
+  are essentially the same. There is no intrinsic difference between
+  the punishment of flogging and cutting off heads in war. For the
+  lesser infractions of law, which are easily dealt with, only a
+  small amount of force need be employed: hence the institution of
+  torture and flogging. For more serious outbreaks of lawlessness,
+  which are hard to suppress, a greater amount of force is
+  necessary: hence the use of military weapons and wholesale
+  decapitation. In both cases, however, the end in view is to get
+  rid of wicked people, and to give comfort and relief to the
+  good....[130]
+
+  Chi-sun asked Jan Yu, saying: “Have you, Sir, acquired your
+  military aptitude by study, or is it innate?” Jan Yu replied: “It
+  has been acquired by study.”[131] “How can that be so,” said
+  Chi-sun, “seeing that you are a disciple of Confucius?” “It is a
+  fact,” replied Jan Yu; “I was taught by Confucius. It is fitting
+  that the great Sage should exercise both civil and military
+  functions, though to be sure my instruction in the art of fighting
+  has not yet gone very far.”
+
+  Now, who the author was of this rigid distinction between the
+  “civil” and the “military,” and the limitation of each to a
+  separate sphere of action, or in what year of which dynasty it
+  was first introduced, is more than I can say. But, at any rate,
+  it has come about that the members of the governing class are
+  quite afraid of enlarging on military topics, or do so only in a
+  shamefaced manner. If any are bold enough to discuss the subject,
+  they are at once set down as eccentric individuals of coarse and
+  brutal propensities. This is an extraordinary instance of the way
+  in which, through sheer lack of reasoning, men unhappily lose
+  sight of fundamental principles.[132]
+
+  When the Duke of Chou was minister under Ch‘êng Wang, he
+  regulated ceremonies and made music, and venerated the arts of
+  scholarship and learning; yet when the barbarians of the River Huai
+  revolted,[133] he sallied forth and chastised them. When Confucius
+  held office under the Duke of Lu, and a meeting was convened at
+  Chia-ku,[134] he said: “If pacific negotiations are in progress,
+  warlike preparations should have been made beforehand.” He rebuked
+  and shamed the Marquis of Ch‘i, who cowered under him and dared
+  not proceed to violence. How can it be said that these two great
+  Sages had no knowledge of military matters?[135]
+
+We have seen that the great Chu Hsi held Sun Tzŭ in high esteem. He
+also appeals to the authority of the Classics:—
+
+  Our Master Confucius, answering Duke Ling of Wei, said: “I have
+  never studied matters connected with armies and battalions.”[136]
+  Replying to K‘ung Wên-tzŭ, he said: “I have not been instructed
+  about buff-coats and weapons.”[137] But if we turn to the meeting
+  at Chia-ku,[138] we find that he used armed force against the men
+  of Lai,[139] so that the marquis of Ch‘i was overawed. Again, when
+  the inhabitants of Pi revolted, he ordered his officers to attack
+  them, whereupon they were defeated and fled in confusion.[140]
+  He once uttered the words: “If I fight, I conquer.”[141] And
+  Jan Yu also said: “The Sage exercises both civil and military
+  functions.”[142] Can it be a fact that Confucius never studied or
+  received instruction in the art of war? We can only say that he
+  did not specially choose matters connected with armies and
+  fighting to be the subject of his teaching.[143]
+
+Sun Hsing-yen, the editor of Sun Tzŭ, writes in similar strain:—
+
+  Confucius said: “I am unversed in military matters.” He also
+  said: “If I fight, I conquer.”[144] Confucius ordered ceremonies
+  and regulated music. Now war constitutes one of the five
+  classes of State ceremonial,[145] and must not be treated as an
+  independent branch of study. Hence, the words “I am unversed in”
+  must be taken to mean that there are things which even an inspired
+  Teacher does not know. Those who have to lead an army and devise
+  stratagems, must learn the art of war. But if one can command the
+  services of a good general like Sun Tzŭ, who was employed by Wu
+  Tzŭ-hsü, there is no need to learn it oneself. Hence the remark
+  added by Confucius: “If I fight, I conquer.”[146]
+
+  The men of the present day, however, wilfully interpret these
+  words of Confucius in their narrowest sense, as though he meant
+  that books on the art of war were not worth reading. With blind
+  persistency, they adduce the example of Chao Kua, who pored over
+  his father’s books to no purpose,[147] as a proof that all
+  military theory is useless. Again, seeing that books on war have
+  to do with such things as opportunism in designing plans, and
+  the conversion of spies, they hold that the art is immoral and
+  unworthy of a sage. These people ignore the fact that the studies
+  of our scholars and the civil administration of our officials
+  also require steady application and practice before efficiency is
+  reached. The ancients were particularly chary of allowing mere
+  novices to botch their work.[148] Weapons are baneful[149] and
+  fighting perilous; and unless a general is in constant practice,
+  he ought not to hazard other men’s lives in battle.[150] Hence it
+  is essential that Sun Tzŭ’s 13 chapters should be studied.[151]
+
+  Hsiang Liang used to instruct his nephew Chi[152] in the art of
+  war. Chi got a rough idea of the art in its general bearings,
+  but would not pursue his studies to their proper outcome, the
+  consequence being that he was finally defeated and overthrown. He
+  did not realise that the tricks and artifices of war are beyond
+  verbal computation. Duke Hsiang of Sung[153] and King Yen of
+  Hsü[154] were brought to destruction by their misplaced humanity.
+  The treacherous and underhand nature of war necessitates the use
+  of guile and stratagem suited to the occasion. There is a case on
+  record of Confucius himself having violated an extorted oath,[155]
+  and also of his having left the Sung State in disguise.[156] Can
+  we then recklessly arraign Sun Tzŭ for disregarding truth and
+  honesty?[157]
+
+
+Bibliography.
+
+The following are the oldest Chinese treatises on war, after Sun Tzŭ.
+The notes on each have been drawn principally from the 四庫全書簡明目錄
+_Ssŭ k‘u ch‘üan shu chien ming mu lu_, ch. 9, fol. 22 _sqq_.
+
+1. 吳子 Wu Tzŭ, in 1 _chüan_ or 6 篇 chapters. By 吳起 Wu Ch‘i (_d_.
+B.C. 381). A genuine work. See _Shih Chi_, ch. 65.
+
+2. 司馬法 Ssŭ-ma Fa, in 1 _chüan_ or 5 chapters. Wrongly attributed to
+司馬穰苴 Ssŭ-ma Jang-chü of the 6th century B.C. Its date, however, must
+be early, as the customs of the three ancient dynasties are constantly
+to be met with in its pages.[158] See _Shih chi_, ch. 64.
+
+The _Ssŭ K‘u Ch‘üan Shu_ (ch. 99, f. 1) remarks that the oldest three
+treatises on war, _Sun Tzŭ_, _Wu Tzŭ_ and the _Ssŭ-ma Fa_, are,
+generally speaking, only concerned with things strictly military—the
+art of producing, collecting, training and drilling troops, and the
+correct theory with regard to measures of expediency, laying plans,
+transport of goods and the handling of soldiers[159]—in strong contrast
+to later works, in which the science of war is usually blended with
+metaphysics, divination and magical arts in general.
+
+3. 六韜 Liu T‘ao, in 6 _chüan_ or 60 chapters. Attributed to 呂望 Lü
+Wang (or Lü 尙 Shang, also known as 太公 T‘ai Kung) of the 12th century
+B.C.[160] But its style does not belong to the era of the Three
+Dynasties.[161] 陸德明 Lu Tê-ming (550–625 A.D.) mentions the work, and
+enumerates the headings of the six sections, 文, 武, 虎, 豹, 龍 and 犬,
+so that the forgery cannot have been later than the Sui dynasty.
+
+4. 尉繚子 Wei Liao Tzŭ, in 5 _chüan_. Attributed to Wei Liao (4th cent.
+B.C.), who studied under the famous 鬼谷子 Kuei-ku Tzŭ. The 漢志, under
+兵家, mentions a book of Wei Liao in 31 chapters, whereas the text we
+possess contains only 24. Its matter is sound enough in the main,
+though the strategical devices differ considerably from those of the
+Warring States period.[162] It has been furnished with a commentary by
+the well-known Sung philosopher 張載 Chang Tsai.
+
+5. 三略 San Lüeh, in 3 _chüan_. Attributed to 黃石公 Huang-shih Kung, a
+legendary personage who is said to have bestowed it on Chang Liang
+(_d_. B.C. 187) in an interview on a bridge.[163] But here again, the
+style is not that of works dating from the Ch‘in or Han period. The
+Han Emperor Kuang Wu [A.D. 25–57] apparently quotes from it in one of
+his proclamations; but the passage in question may have been inserted
+later on, in order to prove the genuineness of the work. We shall not
+be far out if we refer it to the Northern Sung period [420–478 A.D.],
+or somewhat earlier.[164]
+
+6. 李衞公問對 Li Wei Kung Wên Tui, in 3 sections. Written in the form
+of a dialogue between T‘ai Tsung and his great general 李靖 Li Ching,
+it is usually ascribed to the latter. Competent authorities consider
+it a forgery, though the author was evidently well versed in the art
+of war.[165]
+
+7. 李靖兵法 Li Ching Ping Fa (not to be confounded with the foregoing)
+is a short treatise in 8 chapters, preserved in the _T‘ung Tien_, but
+not published separately. This fact explains its omission from the
+_Ssŭ K‘u Ch‘üan Shu_.
+
+8. 握奇經 Wu Ch‘i Ching,[166] in 1 _chüan_. Attributed to the legendary
+minister 風后 Fêng Hou, with exegetical notes by 公孫宏 Kung-sun Hung
+of the Han dynasty (_d_. B.C. 121), and said to have been eulogised by
+the celebrated general 馬隆 Ma Lung (_d_. A.D. 300). Yet the earliest
+mention of it is in the 宋志. Although a forgery, the work is well put
+together.[167]
+
+Considering the high popular estimation in which 諸葛亮 Chu-ko Liang
+has always been held, it is not surprising to find more than one work
+on war ascribed to his pen. Such are (1) the 十六策 Shih Liu Ts‘ê (1
+_chüan_), preserved in the 永樂大典 _Yung Lo Ta Tien_; (2) 將苑 Chiang
+Yüan (1 _ch_.); and (3) 心書 Hsin Shu (1 _ch_.), which steals wholesale
+from Sun Tzŭ. None of these has the slightest claim to be considered
+genuine.
+
+Most of the large Chinese encyclopaedias contain extensive sections
+devoted to the literature of war. The following references may be
+found useful:—
+
+  通典 T‘ung Tien (_circâ_ 800 A.D.), ch. 148–162.
+
+  太平御覽 T‘ai P‘ing Yü Lan (983), ch. 270–359.
+
+  文獻通考 Wên Hsien T‘ung K‘ao (13th cent.), ch. 221.
+
+  玉海 Yü Hai (13th cent.), ch. 140, 141.
+
+  三才圖會 San Ts‘ai T‘u Hui (16th cent.), 人事 ch. 7, 8.
+
+  廣博物志 Kuang Po Wu Chih (1607), ch. 31, 32.
+
+  潛確類書 Ch‘ien Ch‘io Lei Shu (1632), ch. 75.
+
+  淵鑑類函 Yüan Chien Lei Han (1710), ch. 206–229.
+
+  古今圖書集成 Ku Chin T‘u Shu Chi Ch‘êng (1726), section XXX,
+  _esp_. ch. 81–90.
+
+  續文獻通考 Hsü Wên Hsien T‘ung K‘ao (1784), ch. 121–134.
+
+  皇朝經世文編 Huang Ch‘ao Ching Shih Wên Pien (1826), ch. 76, 77.
+
+The bibliographical sections of certain historical works
+also deserve mention:—
+
+  前漢書 Ch‘ien Han Shu, ch. 30.
+
+  隋書 Sui Shu, ch. 32–35.
+
+  舊唐書 Chiu T‘ang Shu, ch. 46, 47.
+
+  新唐書 Hsin T‘ang Shu, ch. 57–60.
+
+  宋史 Sung Shih, ch. 202–209.
+
+  通志 T‘ung Chih (_circâ_ 1150), ch. 68.
+
+To these of course must be added the great Catalogue of the
+Imperial Library:—
+
+  四庫全書總目提要 Ssŭ K‘u Ch‘üan Shu Tsung Mu T‘i Yao (1790), ch. 99, 100.
+
+
+
+
+I. 計篇.
+
+LAYING PLANS.
+
+
+  This is the only possible meaning of 計, which M. Amiot and Capt.
+  Calthrop wrongly translate “Fondements de l’art militaire” and
+  “First principles” respectively. Ts‘ao Kung says it refers to the
+  deliberations in the temple selected by the general for his
+  temporary use, or as we should say, in his tent. See § 26.
+
+1. 孫子曰兵者國之大事
+
+Sun Tzŭ said: The art of war is of vital importance to the State.
+
+2. 死生之地存亡之道不可不察也
+
+It is a matter of life and death, a road either to safety or to ruin.
+Hence it is a subject of inquiry which can on no account be neglected.
+
+3. 故經之以五校之以計而索其情
+
+The art of war, then, is governed by five constant factors, to be
+taken into account in one’s deliberations, when seeking to determine
+the conditions obtaining in the field.
+
+  The old text of the _T‘ung Tien_ has 故經之以五校之計, etc. Later
+  editors have inserted 事 after 五, and 以 before 計. The former
+  correction is perhaps superfluous, but the latter seems necessary
+  in order to make sense, and is supported by the accepted reading
+  in § 12, where the same words recur. I am inclined to think,
+  however, that the whole sentence from 校 to 情 is an interpolation
+  and has no business here at all. If it be retained, Wang Hsi must
+  be right in saying that 計 denotes the “seven considerations” in
+  § 13. 情 are the circumstances or conditions likely to bring about
+  victory or defeat. The antecedent of the first 之 is 兵者; of the
+  second, 五. 校 contains the idea of “comparison with the enemy,”
+  which cannot well be brought out here, but will appear in § 12.
+  Altogether, difficult though it is, the passage is not so
+  hopelessly corrupt as to justify Capt. Calthrop in burking it
+  entirely.
+
+4. 一曰道二曰天三曰地四曰將五曰法
+
+These are: (1) The Moral Law; (2) Heaven; (3) Earth; (4) The
+Commander; (5) Method and discipline.
+
+  It appears from what follows that Sun Tzŭ means by 道 a principle
+  of harmony, not unlike the Tao of Lao Tzŭ in its moral aspect. One
+  might be tempted to render it by “morale,” were it not considered
+  as an attribute of the _ruler_ in § 13.
+
+5. 道者令民與上同意也
+
+6. 故可與之死可與之生而民不畏危
+
+_The Moral Law_ causes the people to be in complete accord with their
+ruler, so that they will follow him regardless of their lives,
+undismayed by any danger.
+
+  The original text omits 令民, inserts an 以 after each 可, and
+  omits 民 after 而. Capt. Calthrop translates: “If the ruling
+  authority be upright, the people are united”—a very pretty
+  sentiment, but wholly out of place in what purports to be a
+  translation of Sun Tzŭ.
+
+7. 天者陰陽寒暑時制也
+
+_Heaven_ signifies night and day, cold and heat, times and seasons.
+
+  The commentators, I think, make an unnecessary mystery of 陰陽.
+  Thus Mêng Shih defines the words as 剛柔盈縮 “the hard and the
+  soft, waxing and waning,” which does not help us much. Wang Hsi,
+  however, may be right in saying that what is meant is 總天道 “the
+  general economy of Heaven,” including the five elements, the four
+  seasons, wind and clouds, and other phenomena.
+
+8. 地者遠近險易廣狹死生也
+
+_Earth_ comprises distances, great and small; danger and security;
+open ground and narrow passes; the chances of life and death.
+
+  死生 (omitted by Capt. Calthrop) may have been included here
+  because the safety of an army depends largely on its quickness to
+  turn these geographical features to account.
+
+9. 將者智信仁勇嚴也
+
+_The Commander_ stands for the virtues of wisdom, sincerity,
+benevolence, courage and strictness.
+
+  The five cardinal virtues of the Chinese are (1) 仁 humanity or
+  benevolence; (2) 義 uprightness of mind; (3) 禮 self-respect,
+  self-control, or “proper feeling;” (4) 智 wisdom; (5) 信 sincerity
+  or good faith. Here 智 and 信 are put before 仁, and the two
+  military virtues of “courage” and “strictness” substituted for 義
+  and 禮.
+
+10. 法者曲制官道主用也
+
+By _Method and discipline_ are to be understood the marshalling of the
+army in its proper subdivisions, the gradations of rank among the
+officers, the maintenance of roads by which supplies may reach the
+army, and the control of military expenditure.
+
+  The Chinese of this sentence is so concise as to be practically
+  unintelligible without commentary. I have followed the
+  interpretation of Ts‘ao Kung, who joins 曲制 and again 主用. Others
+  take each of the six predicates separately. 曲 has the somewhat
+  uncommon sense of “cohort” or division of an army. Capt. Calthrop
+  translates: “Partition and ordering of troops,” which only covers
+  曲制.
+
+11. 凡此五者將莫不聞知之者勝不知者不勝
+
+These five heads should be familiar to every general: he who knows
+them will be victorious; he who knows them not will fail.
+
+12. 故校之以計而索其情
+
+Therefore, in your deliberations, when seeking to determine the
+military conditions, let them be made the basis of a comparison, in
+this wise:—
+
+  The _Yü Lan_ has an interpolated 五 before 計. It is obvious,
+  however, that the 五者 just enumerated cannot be described as 計.
+  Capt. Calthrop, forced to give some rendering of the words which
+  he had omitted in § 3, shows himself decidedly hazy: “Further,
+  with regard to these and the following seven matters, the
+  condition of the enemy must be compared with our own.” He does not
+  appear to see that the seven queries or considerations which
+  follow arise directly out of the Five heads, instead of being
+  supplementary to them.
+
+13. 曰主孰有道將孰有能天地孰得法令孰行兵衆孰强士卒孰練賞罰孰明
+
+(1) Which of the two sovereigns is imbued with the Moral law?
+
+  I.e., “is in harmony with his subjects.” Cf. § 5.
+
+(2) Which of the two generals has most ability?
+
+(3) With whom lie the advantages derived from Heaven and Earth?
+
+  See §§ 7, 8.
+
+(4) On which side is discipline most rigorously enforced?
+
+  Tu Mu alludes to the remarkable story of Ts‘ao Ts‘ao (A.D.
+  155–220), who was such a strict disciplinarian that once, in
+  accordance with his own severe regulations against injury to
+  standing crops, he condemned himself to death for having allowed
+  his horse to shy into a field of corn! However, in lieu of losing
+  his head, he was persuaded to satisfy his sense of justice by
+  cutting off his hair. Ts‘ao Ts‘ao’s own comment on the present
+  passage is characteristically curt: 設而不犯犯而必誅 “when you lay
+  down a law, see that it is not disobeyed; if it is disobeyed, the
+  offender must be put to death.”
+
+(5) Which army is the stronger?
+
+  Morally as well as physically. As Mei Yao-ch‘ên puts it, 內和外附,
+  which might be freely rendered “esprit de corps and ‘big
+  battalions.’”
+
+(6) On which side are officers and men more highly trained?
+
+  Tu Yu quotes 王子 as saying: “Without constant practice, the
+  officers will be nervous and undecided when mustering for battle;
+  without constant practice, the general will be wavering and
+  irresolute when the crisis is at hand.”
+
+(7) In which army is there the greater constancy both in reward and
+punishment?
+
+  明, literally “clear;” that is, on which side is there the most
+  absolute certainty that merit will be properly rewarded and
+  misdeeds summarily punished?
+
+14. 吾以此知勝負矣
+
+By means of these seven considerations I can forecast victory or defeat.
+
+15. 將聽吾計用之必勝留之將不聽吾計用之必敗去之
+
+The general that hearkens to my counsel and acts upon it, will
+conquer:—let such a one be retained in command! The general that
+hearkens not to my counsel nor acts upon it, will suffer defeat:—let
+such a one be dismissed!
+
+  The form of this paragraph reminds us that Sun Tzŭ’s treatise was
+  composed expressly for the benefit of his patron 闔閭 Ho Lü, king of
+  the Wu State. It is not necessary, however, to understand 我 before
+  留之 (as some commentators do), or to take 將 as “generals under my
+  command.”
+
+16. 計利以聽乃爲之勢以佐其外
+
+While heeding the profit of my counsel, avail yourself also of any
+helpful circumstances over and beyond the ordinary rules.
+
+  Capt. Calthrop blunders amazingly over this sentence: “Wherefore, with
+  regard to the foregoing, considering that with us lies the advantage,
+  and the generals agreeing, we create a situation which promises
+  victory.” Mere logic should have kept him from penning such frothy
+  balderdash.
+
+17. 勢者因利而制權也
+
+According as circumstances are favourable, one should modify one’s
+plans.
+
+  Sun Tzŭ, as a practical soldier, will have none of the “bookish
+  theoric.” He cautions us here not to pin our faith to abstract
+  principles; “for,” as Chang Yü puts it, “while the main laws of
+  strategy can be stated clearly enough for the benefit of all and
+  sundry, you must be guided by the actions of the enemy in attempting
+  to secure a favourable position in actual warfare.” On the eve of the
+  battle of Waterloo, Lord Uxbridge, commanding the cavalry, went to the
+  Duke of Wellington in order to learn what his plans and calculations
+  were for the morrow, because, as he explained, he might suddenly find
+  himself Commander-in-chief and would be unable to frame new plans in a
+  critical moment. The Duke listened quietly and then said: “Who will
+  attack the first to-morrow—I or Bonaparte?” “Bonaparte,” replied Lord
+  Uxbridge. “Well,” continued the Duke, “Bonaparte has not given me any
+  idea of his projects; and as my plans will depend upon his, how can
+  you expect me to tell you what mine are?”[168]
+
+18. 兵者詭道也
+
+All warfare is based on deception.
+
+  The truth of this pithy and profound saying will be admitted by
+  every soldier. Col. Henderson tells us that Wellington, great in
+  so many military qualities, was especially distinguished by “the
+  extraordinary skill with which he concealed his movements and
+  deceived both friend and foe.”
+
+19. 故能而示之不能用而示之不用近而示之遠遠而示之近
+
+Hence, when able to attack, we must seem unable; when using our
+forces, we must seem inactive; when we are near, we must make the
+enemy believe we are far away; when far away, we must make him believe
+we are near.
+
+20. 利而誘之亂而取之
+
+Hold out baits to entice the enemy. Feign disorder, and crush him.
+
+  取, as often in Sun Tzŭ, is used in the sense of 擊. It is rather
+  remarkable that all the commentators, with the exception of Chang
+  Yü, refer 亂 to the enemy: “when he is in disorder, crush him.” It
+  is more natural to suppose that Sun Tzŭ is still illustrating the
+  uses of deception in war.
+
+21. 實而備之强而避之
+
+If he is secure at all points, be prepared for him. If he is in
+superior strength, evade him.
+
+  The meaning of 實 is made clear from chap. VI, where it is opposed
+  to 虛 “weak or vulnerable spots.” 强, according to Tu Yu and other
+  commentators, has reference to the keenness of the men as well as
+  to numerical superiority. Capt. Calthrop evolves an
+  extraordinarily far-fetched translation: “If there are defects,
+  give an appearance of perfection, and awe the enemy. Pretend to be
+  strong, and so cause the enemy to avoid you”!
+
+22. 怒而撓之卑而驕之
+
+If your opponent is of choleric temper, seek to irritate him. Pretend
+to be weak, that he may grow arrogant.
+
+  I follow Chang Yü in my interpretation of 怒. 卑 is expanded by Mei
+  Yao-ch‘ên into 示以卑弱. Wang Tzŭ, quoted by Tu Yu, says that the
+  good tactician plays with his adversary as a cat plays with a
+  mouse, first feigning weakness and immobility, and then suddenly
+  pouncing upon him.
+
+23. 佚而勞之親而離之
+
+If he is taking his ease, give him no rest.
+
+  This is probably the meaning, though Mei Yao-ch‘ên has the note:
+  以我之佚待彼之勞 “while we are taking our ease, wait for the enemy
+  to tire himself out.” The _Yü Lan_ has 引而勞之 “Lure him on and
+  tire him out.” This would seem also to have been Ts‘ao Kung’s
+  text, judging by his comment 以利勞之.
+
+If his forces are united, separate them.
+
+  Less plausible is the interpretation favoured by most of the
+  commentators: “If sovereign and subject are in accord, put
+  division between them.”
+
+24. 攻其無備出其不意
+
+Attack him where he is unprepared, appear where you are not expected.
+
+25. 此兵家之勝不可先傳也
+
+These military devices, leading to victory, must not be divulged
+beforehand.
+
+  This seems to be the way in which Ts‘ao Kung understood the
+  passage, and is perhaps the best sense to be got out of the text
+  as it stands. Most of the commentators give the following
+  explanation: “It is impossible to lay down rules for warfare
+  before you come into touch with the enemy.” This would be very
+  plausible if it did not ignore 此, which unmistakably refers to the
+  maxims which Sun Tzŭ has been laying down. It is possible, of
+  course, that 此 may be a later interpolation, in which case the
+  sentence would practically mean: “Success in warfare cannot be
+  taught.” As an alternative, however, I would venture to suggest
+  that a second 不 may have fallen out after 可, so that we get:
+  “These maxims for succeeding in war are the first that ought to be
+  imparted.”
+
+26. 夫未戰而廟算勝者得算多也未戰而廟算不勝者得算少也多算勝少算不勝而況於無算
+乎吾以此觀之勝負見矣
+
+Now the general who wins a battle makes many calculations in his
+temple ere the battle is fought.
+
+  Chang Yü tells us that in ancient times it was customary for a
+  temple to be set apart for the use of a general who was about to
+  take the field, in order that he might there elaborate his plan of
+  campaign. Capt. Calthrop misunderstands it as “the shrine of the
+  ancestors,” and gives a loose and inaccurate rendering of the
+  whole passage.
+
+The general who loses a battle makes but few calculations beforehand.
+Thus do many calculations lead to victory, and few calculations to
+defeat: how much more no calculation at all! It is by attention to
+this point that I can foresee who is likely to win or lose.
+
+
+
+
+II. 作戰篇.
+
+WAGING WAR.
+
+
+  Ts‘ao Kung has the note: 欲戰必先算其費務 “He who wishes to fight
+  must first count the cost,” which prepares us for the discovery
+  that the subject of the chapter is not what we might expect from
+  the title, but is primarily a consideration of ways and means.
+
+1. 孫子曰凡用兵之法馳車千駟革車千乘帶甲十萬千里饋糧則內外之費賓客之用膠漆之材
+車甲之奉日費千金然後十萬之師舉矣
+
+Sun Tzŭ said: In the operations of war, where there are in the field a
+thousand swift chariots, as many heavy chariots, and a hundred
+thousand mail-clad soldiers,
+
+  The 馳車 were lightly built and, according to Chang Yü, used for
+  the attack; the 革車 were heavier, and designed for purposes of
+  defence. Li Ch‘üan, it is true, says that the latter were light,
+  but this seems hardly probable. Capt. Calthrop translates
+  “chariots” and “supply wagons” respectively, but is not supported
+  by any commentator. It is interesting to note the analogies
+  between early Chinese warfare and that of the Homeric Greeks. In
+  each case, the war-chariot was the important factor, forming as it
+  did the nucleus round which was grouped a certain number of
+  foot-soldiers. With regard to the numbers given here, we are
+  informed that each swift chariot was accompanied by 75 footmen,
+  and each heavy chariot by 25 footmen, so that the whole army would
+  be divided up into a thousand battalions, each consisting of two
+  chariots and a hundred men.
+
+with provisions enough to carry them a thousand _li_,
+
+  2.78 modern _li_ go to a mile. The length may have varied slightly
+  since Sun Tzŭ’s time.
+
+the expenditure at home and at the front, including entertainment of
+guests, small items such as glue and paint, and sums spent on chariots
+and armour, will reach the total of a thousand ounces of silver per day.
+
+  則, which follows 糧 in the _textus receptus_, is important as
+  indicating the apodosis. In the text adopted by Capt. Calthrop it
+  is omitted, so that he is led to give this meaningless translation
+  of the opening sentence: “Now the requirements of War are such
+  that we need 1,000 chariots,” etc. The second 費, which is
+  redundant, is omitted in the _Yü Lan_. 千金, like 千里 above, is
+  meant to suggest a large but indefinite number. As the Chinese
+  have never possessed gold coins, it is incorrect to translate it
+  “1000 pieces of gold.”
+
+Such is the cost of raising an army of 100,000 men.
+
+  Capt. Calthrop adds: “You have the instruments of victory,” which
+  he seems to get from the first five characters of the next sentence.
+
+2. 其用戰也勝久則鈍兵挫銳攻城則力屈
+
+When you engage in actual fighting, if victory is long in coming, the
+men’s weapons will grow dull and their ardour will be damped.
+
+  The _Yü Lan_ omits 勝; but though 勝久 is certainly a bold phrase,
+  it is more likely to be right than not. Both in this place and in
+  § 4, the _T‘ung Tien_ and _Yü Lan_ read 頓 (in the sense of “to
+  injure”) instead of 鈍.
+
+If you lay siege to a town, you will exhaust your strength.
+
+  As synonyms to 屈 are given 盡, 殫, 窮 and 困.
+
+3. 久暴師則國用不足
+
+Again, if the campaign is protracted, the resources of the State will
+not be equal to the strain.
+
+  久暴師 means literally, “If there is long exposure of the army.”
+  Of 暴 in this sense K‘ang Hsi cites an instance from the biography
+  of 竇融 Tou Jung in the _Hou Han Shu_ where the commentary defines
+  it by 露. Cf. also the following from the 戰國策: 將軍久暴露於外
+  “General, you have long been exposed to all weathers.”
+
+4. 夫鈍兵挫銳屈力殫貨則諸侯乘其幣而起雖有智者不能善其後矣
+
+Now, when your weapons are dulled, your ardour damped, your strength
+exhausted and your treasure spent, other chieftains will spring up to
+take advantage of your extremity. Then no man, however wise, will be
+able to avert the consequences that must ensue.
+
+  Following Tu Yu, I understand 善 in the sense of “to make good,”
+  i.e. to mend. But Tu Mu and Ho Shih explain it as “to make good
+  plans”—for the future.
+
+5. 故兵聞拙速未睹巧之久也
+
+Thus, though we have heard of stupid haste in war, cleverness has
+never been seen associated with long delays.
+
+  This concise and difficult sentence is not well explained by any
+  of the commentators. Ts‘ao Kung, Li Ch‘üan, Mêng Shih, Tu Yu, Tu
+  Mu and Mei Yao-ch‘ên have notes to the effect that a general,
+  though naturally stupid, may nevertheless conquer through sheer
+  force of rapidity. Ho Shih says: “Haste may be stupid, but at any
+  rate it saves expenditure of energy and treasure; protracted
+  operations may be very clever, but they bring calamity in their
+  train.” Wang Hsi evades the difficulty by remarking: “Lengthy
+  operations mean an army growing old, wealth being expended, an
+  empty exchequer and distress among the people; true cleverness
+  insures against the occurrence of such calamities.” Chang Yü says:
+  “So long as victory can be attained, stupid haste is preferable to
+  clever dilatoriness.” Now Sun Tzŭ says nothing whatever, except
+  possibly by implication, about ill-considered haste being better
+  than ingenious but lengthy operations. What he does say is
+  something much more guarded, namely that, while speed may
+  sometimes be injudicious, tardiness can never be anything but
+  foolish—if only because it means impoverishment to the nation.
+  Capt. Calthrop indulges his imagination with the following:
+  “Therefore it is acknowledged that war cannot be too short in
+  duration. But though conducted with the utmost art, if long
+  continuing, misfortunes do always appear.” It is hardly worth
+  while to note the total disappearance of 拙速 in this precious
+  concoction. In considering the point raised here by Sun Tzŭ, the
+  classic example of Fabius Cunctator will inevitably occur to the
+  mind. That general deliberately measured the endurance of Rome
+  against that of Hannibal’s isolated army, because it seemed to him
+  that the latter was more likely to suffer from a long campaign in
+  a strange country. But it is quite a moot question whether his
+  tactics would have proved successful in the long run. Their
+  reversal, it is true, led to Cannae; but this only establishes a
+  negative presumption in their favour.
+
+6. 夫兵久而國利者未之有也
+
+There is no instance of a country having benefited from prolonged
+warfare.
+
+  The _Yü Lan_ has 圖 instead of 國—evidently the mistake of a scribe.
+
+7. 故不盡知用兵之害者則不能盡知用兵之利也
+
+It is only one who is thoroughly acquainted with the evils of war that
+can thoroughly understand the profitable way of carrying it on.
+
+  That is, with rapidity. Only one who knows the disastrous effects
+  of a long war can realise the supreme importance of rapidity in
+  bringing it to a close. Only two commentators seem to favour this
+  interpretation, but it fits well into the logic of the context,
+  whereas the rendering, “He who does not know the evils of war
+  cannot appreciate its benefits,” is distinctly pointless.
+
+8. 善用兵者役不再籍糧不三載
+
+The skilful soldier does not raise a second levy, neither are his
+supply-waggons loaded more than twice.
+
+  Once war is declared, he will not waste precious time in waiting
+  for reinforcements, nor will he turn his army back for fresh
+  supplies, but crosses the enemy’s frontier without delay. This may
+  seem an audacious policy to recommend, but with all great
+  strategists, from Julius Caesar to Napoleon Buonaparte, the value
+  of time—that is, being a little ahead of your opponent—has counted
+  for more than either numerical superiority or the nicest
+  calculations with regard to commissariat. 籍 is used in the sense
+  of 賦. The _T‘ung Tien_ and _Yü Lan_ have the inferior reading 藉.
+  The commentators explain 不三載 by saying that the waggons are
+  loaded once before passing the frontier, and that the army is met
+  by a further consignment of supplies on the homeward march. The
+  _Yü Lan_, however, reads 再 here as well.
+
+9. 取用於國因糧於敵故軍食可足也
+
+Bring war material with you from home, but forage on the enemy. Thus
+the army will have food enough for its needs.
+
+  用, “things to be used,” in the widest sense. It includes all the
+  impedimenta of an army, apart from provisions.
+
+10. 國之貧於師者遠輸遠輸則百姓貧
+
+Poverty of the State exchequer causes an army to be maintained by
+contributions from a distance. Contributing to maintain an army at a
+distance causes the people to be impoverished.
+
+  The beginning of this sentence does not balance properly with the
+  next, though obviously intended to do so. The arrangement,
+  moreover, is so awkward that I cannot help suspecting some
+  corruption in the text. It never seems to occur to Chinese
+  commentators that an emendation may be necessary for the sense,
+  and we get no help from them here. Sun Tzŭ says that the cause of
+  the people’s impoverishment is 遠輸; it is clear, therefore, that
+  the words have reference to some system by which the husbandmen
+  sent their contributions of corn to the army direct. But why
+  should it fall on them to maintain an army in this way, except
+  because the State or Government is too poor to do so? Assuming
+  then that 貧 ought to stand first in the sentence in order to
+  balance 近 (the fact that the two words rhyme is significant), and
+  thus getting rid of 國之, we are still left with 於師, which latter
+  word seems to me an obvious mistake for 國. “Poverty in the army”
+  is an unlikely expression, especially as the general has just been
+  warned not to encumber his army with a large quantity of supplies.
+  If we suppose that 師 somehow got written here instead of 國 (a
+  very simple supposition, as we have 近於師 in the next sentence),
+  and that later on somebody, scenting a mistake, prefixed the gloss
+  國之 to 貧, without however erasing 於師, the whole muddle may be
+  explained. My emended text then would be 貧於國者, etc.
+
+11. 近於師者貴賣貴賣則百姓財竭
+
+On the other hand, the proximity of an army causes prices to go up;
+and high prices cause the people’s substance to be drained away.
+
+  近, that is, as Wang Hsi says, before the army has left its own
+  territory. Ts‘ao Kung understands it of an army that has already
+  crossed the frontier. Capt. Calthrop drops the 於, reading 近師者,
+  but even so it is impossible to justify his translation “Repeated
+  wars cause high prices.”
+
+12. 財竭則急於丘役
+
+When their substance is drained away, the peasantry will be afflicted
+by heavy exactions.
+
+  Cf. Mencius VII. 2. xiv. 2, where 丘民 has the same meaning as
+  丘役. 丘 was an ancient measure of land. The full table, as given
+  by 司馬法, may not be out of place here: 6 尺 = 1 步; 100 步 = 1 畝;
+  100 畝 = 1 夫; 3 夫 = 1 屋; 3 屋 = 1 井; 4 井 = 1 邑; 4 邑 = 1 丘; 4
+  丘 = 1 甸. According to the _Chou Li_, there were nine husbandmen
+  to a 井, which would assign to each man the goodly allowance of
+  100 畝 (of which 6.6 now go to an acre). What the values of these
+  measures were in Sun Tzŭ’s time is not known with any certainty.
+  The lineal 尺, however, is supposed to have been about 20 cm. 急
+  may include levies of men, as well as other exactions.
+
+13. 力屈財殫中原內虛於家百姓之費十去其七
+
+14. 公家之費破車罷馬甲胄矢弩戟楯蔽櫓丘牛大車十去其六
+
+With this loss of substance and exhaustion of strength, the homes of
+the people will be stripped bare, and three-tenths of their incomes
+will be dissipated;
+
+  The _Yü Lan_ omits 財殫. I would propose the emended reading
+  力屈則中, etc. In view of the fact that we have 財竭 in the two
+  preceding paragraphs, it seems probable that 財 is a scribe’s
+  mistake for 則, 殫 having been added afterwards to make sense.
+  中原內虛於家, literally: “Within the middle plains there is
+  emptiness in the homes.” For 中原 cf. _Shih Ching_ II. 3. vi. 3 and
+  II. 5. ii. 3. With regard to 十去其七, Tu Mu says: 家業十耗其七也,
+  and Wang Hsi: 民費大半矣; that is, the people are mulcted not of
+  3⁄10, but of 7⁄10, of their income. But this is hardly to be
+  extracted from our text. Ho Shih has a characteristic tag:
+  國以民爲本民以食爲天居人上者宜乎重惜 “The _people_ being regarded as
+  the essential part of the State, and _food_ as the people’s
+  heaven, is it not right that those in authority should value and
+  be careful of both?”
+
+while Government expenses for broken chariots, worn-out horses,
+breast-plates and helmets, bows and arrows, spears and shields,
+protective mantlets, draught-oxen and heavy waggons, will amount to
+four-tenths of its total revenue.
+
+  The _Yü Lan_ has several various readings here, the more important
+  of which are 疲 for the less common 罷 (read p‘i^2), 干 for 蔽,
+  and 兵牛 for 丘牛, which latter, if right, must mean “oxen from the
+  country districts” (cf. _supra_, § 12). For the meaning of 櫓, see
+  note on III, § 4. Capt. Calthrop omits to translate 丘牛大車.
+
+15. 故智將務食於敵食敵一鍾當吾二十鍾𦮼秆一石當吾二十石
+
+Hence a wise general makes a point of foraging on the enemy. One
+cartload of the enemy’s provisions is equivalent to twenty of one’s
+own, and likewise a single picul of his provender is equivalent to
+twenty from one’s own store.
+
+  Because twenty cartloads will be consumed in the process of
+  transporting one cartload to the front. According to Ts‘ao Kung, a
+  鍾 = 6 斛 4 㪷, or 64 㪷, but according to Mêng Shih, 10 斛 make a
+  鍾. The 石 picul consisted of 70 斤 catties (Tu Mu and others say
+  120). 𦮼秆, literally, “beanstalks and straw.”
+
+16. 故殺敵者怒也取敵之利者貨也
+
+Now in order to kill the enemy, our men must be roused to anger; that
+there may be advantage from defeating the enemy, they must have their
+rewards.
+
+  These are two difficult sentences, which I have translated in
+  accordance with Mei Yao-ch‘ên’s paraphrase. We may incontinently
+  reject Capt. Calthrop’s extraordinary translation of the first:
+  “Wantonly to kill and destroy the enemy must be forbidden.” Ts‘ao
+  Kung quotes a jingle current in his day: 軍無財士不來軍無賞士不往. Tu
+  Mu says: “Rewards are necessary in order to make the soldiers see
+  the advantage of beating the enemy; thus, when you capture spoils
+  from the enemy, they must be used as rewards, so that all your men
+  may have a keen desire to fight, each on his own account.” Chang Yü
+  takes 利 as the direct object of 取, which is not so good.
+
+17. 故車戰得車十乘已上賞其先得者而更其旌旗車雜而乘之卒善而養之
+
+Therefore in chariot fighting, when ten or more chariots have been
+taken, those should be rewarded who took the first.
+
+  Capt. Calthrop’s rendering is: “They who are the first to lay
+  their hands on more than ten of the enemy’s chariots, should be
+  encouraged.” We should have expected the gallant captain to see
+  that such Samson-like prowess deserved something more substantial
+  than mere encouragement. T. omits 故, and has 以上 in place of the
+  more archaic 已上.
+
+Our own flags should be substituted for those of the enemy, and the
+chariots mingled and used in conjunction with ours. The captured
+soldiers should be kindly treated and kept.
+
+18. 是謂勝敵而益强
+
+This is called, using the conquered foe to augment one’s own strength.
+
+19. 故兵貴勝不貴久
+
+In war, then, let your great object be victory, not lengthy campaigns.
+
+  As Ho Shih remarks: 兵不可玩武不可黷 “War is not a thing to be
+  trifled with.” Sun Tzŭ here reiterates the main lesson which this
+  chapter is intended to enforce.
+
+20. 故知兵之將民之司命國家安危之主也
+
+Thus it may be known that the leader of armies is the arbiter of the
+people’s fate, the man on whom it depends whether the nation shall be
+in peace or in peril.
+
+  In the original text, there is a 生 before the 民.
+
+
+
+
+III. 謀攻篇
+
+ATTACK BY STRATAGEM.
+
+
+1. 孫子曰凡用兵之法全國爲上破國次之全軍爲上破軍次之全旅爲上破旅次之全卒爲上破卒次
+之全伍爲上破伍次之
+
+Sun Tzŭ said: In the practical art of war, the best thing of all is to
+take the enemy’s country whole and intact; to shatter and destroy it
+is not so good. So, too, it is better to capture an army entire than
+to destroy it, to capture a regiment, a detachment or a company entire
+than to destroy them.
+
+  A 軍 “army corps,” according to Ssŭ-ma Fa, consisted nominally of
+  12500 men; according to Ts‘ao Kung, a 旅 contained 500 men, a 卒
+  any number between 100 and 500, and a 伍 any number between 5 and
+  100. For the last two, however, Chang Yü gives the exact figures
+  of 100 and 5 respectively.
+
+2. 是故百戰百勝非善之善者也不戰而屈人之兵善之善者也
+
+Hence to fight and conquer in all your battles is not supreme
+excellence; supreme excellence consists in breaking the enemy’s
+resistance without fighting.
+
+  Here again, no modern strategist but will approve the words of the
+  old Chinese general. Moltke’s greatest triumph, the capitulation
+  of the huge French army at Sedan, was won practically without
+  bloodshed.
+
+3. 故上兵伐謀其次伐交其次伐兵下政攻城
+
+Thus the highest form of generalship is to baulk the enemy’s plans;
+
+  I.e., as Li Ch‘üan says (伐其始謀也), in their very inception.
+  Perhaps the word “baulk” falls short of expressing the full force
+  of 伐, which implies not an attitude of defence, whereby one might
+  be content to foil the enemy’s stratagems one after another, but
+  an active policy of counter-attack. Ho Shih puts this very clearly
+  in his note: “When the enemy has made a plan of attack against us,
+  we must anticipate him by delivering our own attack first.”
+
+the next best is to prevent the junction of the enemy’s forces;
+
+  Isolating him from his allies. We must not forget that Sun Tzŭ, in
+  speaking of hostilities, always has in mind the numerous states or
+  principalities into which the China of his day was split up.
+
+the next in order is to attack the enemy’s army in the field;
+
+  When he is already in full strength.
+
+and the worst policy of all is to besiege walled cities.
+
+  The use of the word 政 is somewhat unusual, which may account for
+  the reading of the modern text: 其下攻城.
+
+4. 攻城之法爲不得已修櫓轒轀具器械三月而後成距闉又三月而後已
+
+The rule is, not to besiege walled cities if it can possibly be avoided.
+
+  Another sound piece of military theory. Had the Boers acted upon
+  it in 1899, and refrained from dissipating their strength before
+  Kimberley, Mafeking, or even Ladysmith, it is more than probable
+  that they would have been masters of the situation before the
+  British were ready seriously to oppose them.
+
+The preparation of mantlets, movable shelters, and various implements
+of war, will take up three whole months;
+
+  It is not quite clear what 櫓 were. Ts‘ao Kung simply defines them
+  as 大楯 “large shields,” but we get a better idea of them from Li
+  Ch‘üan, who says they were to protect the heads of those who were
+  assaulting the city walls at close quarters. This seems to suggest
+  a sort of Roman _testudo_, ready made. Tu Mu says they were “what
+  are now termed 彭排” (wheeled vehicles used in repelling attacks,
+  according to K‘ang Hsi), but this is denied by Ch‘ên Hao. See
+  _supra_, II. 14. The name is also applied to turrets on city
+  walls. Of 轒轀 (_fên yün_) we get a fairly clear description from
+  several commentators. They were wooden missile-proof structures on
+  four wheels, propelled from within, covered over with raw hides,
+  and used in sieges to convey parties of men to and from the walls,
+  for the purpose of filling up the encircling moat with earth. Tu
+  Mu adds that they are now called 木驢 “wooden donkeys.” Capt.
+  Calthrop wrongly translates the term, “battering-rams.” I follow
+  Ts‘ao Kung in taking 具 as a verb, co-ordinate and synonymous with
+  修. Those commentators who regard 修 as an adjective equivalent to
+  長 “long,” make 具 presumably into a noun.
+
+and the piling up of mounds over against the walls will take three
+months more.
+
+  The 距闉 (or 堙, in the modern text) were great mounds or ramparts
+  of earth heaped up to the level of the enemy’s walls in order to
+  discover the weak points in the defence, and also to destroy the
+  樓櫓 fortified turrets mentioned in the preceding note. Tu Yu
+  quotes the Tso Chuan: 楚司馬子反乘堙而窺宋城也.
+
+5. 將不勝其忿而蟻附之殺士三分之一而城不拔者此攻之災
+
+The general, unable to control his irritation, will launch his men to
+the assault like swarming ants,
+
+  Capt. Calthrop unaccountably omits this vivid simile, which, as
+  Ts‘ao Kung says, is taken from the spectacle of an army of ants
+  climbing a wall. The meaning is that the general, losing patience
+  at the long delay, may make a premature attempt to storm the place
+  before his engines of war are ready.
+
+with the result that one-third of his men are slain, while the town
+still remains untaken. Such are the disastrous effects of a siege.
+
+  We are reminded of the terrible losses of the Japanese before Port
+  Arthur, in the most recent siege which history has to record. The
+  _T‘ung Tien_ reads 不勝心之忿 ... 則殺士卒 ... 攻城之災. For 其忿 the
+  _Yü Lan_ has 心怒. Capt. Calthrop does not translate 而城不拔者, and
+  mistranslates 此攻之災.
+
+6. 故善用兵者屈人之兵而非戰也拔人之城而非攻也毀人之國而非久也
+
+Therefore the skilful leader subdues the enemy’s troops without any
+fighting; he captures their cities without laying siege to them; he
+overthrows their kingdom without lengthy operations in the field.
+
+  Chia Lin notes that he only overthrows the 國, that is, the
+  Government, but does no harm to individuals. The classical
+  instance is Wu Wang, who after having put an end to the Yin
+  dynasty was acclaimed “Father and mother of the people.”
+
+7. 必以全爭於天下故兵不頓而利可全此謀攻之法也
+
+With his forces intact he will dispute the mastery of the Empire,
+and thus, without losing a man, his triumph will be complete.
+
+  Owing to the double meanings of 兵, 頓 [= 鈍] and 利, the latter
+  part of the sentence is susceptible of quite a different meaning:
+  “And thus, the weapon not being blunted by use, its keenness
+  remains perfect.” Chang Yü says that 利 is “the advantage of a
+  prosperous kingdom and a strong army.”
+
+This is the method of attacking by stratagem.
+
+8. 故用兵之法十則圍之五則攻之倍則分之
+
+It is the rule in war, if our forces are ten to the enemy’s one, to
+surround him; if five to one, to attack him;
+
+  Straightaway, without waiting for any further advantage.
+
+if twice as numerous, to divide our army into two.
+
+  Note that 之 does not refer to the enemy, as in the two preceding
+  clauses. This sudden change of object is quite common in Chinese.
+  Tu Mu takes exception to the saying; and at first sight, indeed,
+  it appears to violate a fundamental principle of war. Ts‘ao Kung,
+  however, gives a clue to Sun Tzŭ’s meaning: 以二敵一則一術爲正一術爲奇
+  “Being two to the enemy’s one, we may use one part of our army in
+  the regular way, and the other for some special diversion.” [For
+  explanation of 正 and 奇, see V. 3, note.] Chang Yü thus further
+  elucidates the point: “If our force is twice as numerous as that
+  of the enemy, it should be split up into two divisions, one to
+  meet the enemy in front, and one to fall upon his rear; if he
+  replies to the frontal attack, he may be crushed from behind; if
+  to the rearward attack, he may be crushed in front. This is what
+  is meant by saying that “one part may be used in the regular
+  way, and the other for some special diversion.” Tu Mu does not
+  understand that dividing one’s army is simply an irregular, just
+  as concentrating it is the regular, strategical method, and he is
+  too hasty in calling this a mistake.”
+
+9. 敵則能戰之少則能逃之不若則能避之
+
+If equally matched, we can offer battle;
+
+  Li Ch‘üan, followed by Ho Shih, gives the following paraphrase:
+  主客力敵惟善者戰 “If attackers and attacked are equally matched in
+  strength, only the able general will fight.” He thus takes 能 as
+  though it were 能者, which is awkward.
+
+if slightly inferior in numbers, we can avoid the enemy;
+
+  The _T‘u Shu_ has 守 instead of 逃, which is hardly distinguishable
+  in sense from 避 in the next clause. The meaning, “we can watch the
+  enemy,” is certainly a great improvement on the above; but
+  unfortunately there appears to be no very good authority for the
+  variant. Chang Yü reminds us that the saying only applies if the
+  other factors are equal; a small difference in numbers is often
+  more than counterbalanced by superior energy and discipline.
+
+if quite unequal in every way, we can flee from him.
+
+10. 故小敵之堅大敵之擒也
+
+Hence, though an obstinate fight may be made by a small force, in the
+end it must be captured by the larger force.
+
+  In other words: “C’est magnifique; mais ce n’est pas la guerre.”
+
+11. 夫將者國之輔也輔周則國必强輔𨻶則國必弱
+
+Now the general is the bulwark of the State: if the bulwark is
+complete at all points, the State will be strong; if the bulwark is
+defective, the State will be weak.
+
+  𨻶 cannot be restricted to anything so particular as in Capt.
+  Calthrop’s translation, “divided in his allegiance.” It is simply
+  keeping up the metaphor suggested by 周. As Li Ch‘üan tersely puts
+  it: 𨻶缺也將才不備兵必弱 “_Ch‘i_, gap, indicates deficiency; if the
+  general’s ability is not perfect (i.e. if he is not thoroughly
+  versed in his profession), his army will lack strength.”
+
+12. 故君之所以患於軍者三
+
+There are three ways in which a ruler can bring misfortune upon his
+army:—
+
+13. 不知軍之不可以進而謂之進不知軍之不可以退而謂之退是謂縻軍
+
+(1) By commanding the army to advance or to retreat, being ignorant of
+the fact that it cannot obey. This is called hobbling the army.
+
+  Ts‘ao Kung weakly defines 縻 as 御 “control,” “direct.” Cf. § 17
+  _ad fin_. But in reality it is one of those graphic metaphors
+  which from time to time illuminate Sun Tzŭ’s work, and is rightly
+  explained by Li Ch‘üan as = 絆. He adds the comment:
+  如絆驥足無馳驟也. “It is like tying together the legs of a
+  thoroughbred, so that it is unable to gallop.” One would naturally
+  think of “the ruler” in this passage as being at home, and trying
+  to direct the movements of his army from a distance. But the
+  commentators understand just the reverse, and quote the saying of
+  T‘ai Kung: 國不可以從外治軍不可以從中御 “A kingdom should not be
+  governed from without, an army should not be directed from
+  within.” Of course it is true that, during an engagement, or when
+  in close touch with the enemy, the general should not be in the
+  thick of his own troops, but a little distance apart. Otherwise,
+  he will be liable to misjudge the position as a whole, and give
+  wrong orders.
+
+14. 不知三軍之事而同三軍之政者則軍士惑矣
+
+(2) By attempting to govern an army in the same way as he administers
+a kingdom, being ignorant of the conditions which obtain in an army.
+This causes restlessness in the soldier’s minds.
+
+  Ts‘ao Kung’s note is: 軍容不入國國容不入軍禮不可以治兵也, which may be
+  freely translated: “The military sphere and the civil sphere are
+  wholly distinct; you can’t handle an army in kid gloves.” And
+  Chang Yü says: “Humanity and justice (仁義) are the principles on
+  which to govern a state, but not an army; opportunism and
+  flexibility (權變), on the other hand, are military rather than
+  civic virtues.” 同三軍之政, “to assimilate the governing of an
+  army”—to that of a State, understood. The _T‘ung Tien_ has 欲
+  inserted before 同, here and in § 15.
+
+15. 不知三軍之權而同三軍之任則軍士疑矣
+
+(3) By employing the officers of his army without discrimination,
+
+  That is, he is not careful to use the right man in the right place.
+
+through ignorance of the military principle of adaptation to
+circumstances. This shakes the confidence of the soldiers.
+
+  I follow Mei Yao-ch‘ên here. The other commentators make 不知 etc.
+  refer, not to the ruler, as in §§ 13, 14, but to the officers he
+  employs. Thus Tu Yu says: 將若不知權變不可付以勢位 “If a general is
+  ignorant of the principle of adaptability, he must not be
+  entrusted with a position of authority.” Tu Mu quotes 黃石公: “The
+  skilful employer of men will employ the wise man, the brave man,
+  the covetous man, and the stupid man. For the wise man delights in
+  establishing his merit, the brave man likes to show his courage in
+  action, the covetous man is quick at seizing advantages, and the
+  stupid man has no fear of death.” The _T‘ung Tien_ reads 軍覆疑,
+  which Tu Yu explains as 覆敗 “is utterly defeated.” Capt. Calthrop
+  gives a very inaccurate rendering: “Ignorant of the situation of
+  the army, to interfere in its dispositions.”
+
+16. 三軍既惑且疑則諸侯之難至矣是謂亂軍引勝
+
+But when the army is restless and distrustful, trouble is sure to come
+from the other feudal princes. This is simply bringing anarchy into
+the army, and flinging victory away.
+
+  Most of the commentators take 引 in the sense of 奪, which it seems
+  to bear also in the _Li Chi_, 玉藻, I. 18. [卻 is there given as
+  its equivalent, but Legge tries notwithstanding to retain the more
+  usual sense, translating “draw ... back,” which is hardly
+  defensible.] Tu Mu and Wang Hsi, however, think 引勝 means “leading
+  up to the _enemy’s_ victory.”
+
+17. 故知勝有五知可以戰與不可以戰者勝識衆寡之用者勝上下同欲者勝以虞待不虞者勝
+將能而君不御者勝此五者知勝之道也
+
+Thus we may know that there are five essentials for victory: (1) He
+will win who knows when to fight and when not to fight.
+
+  Chang Yü says: “If he can fight, he advances and takes the
+  offensive; if he cannot fight, he retreats and remains on the
+  defensive. He will invariably conquer who knows whether it is
+  right to take the offensive or the defensive.”
+
+(2) He will win who knows how to handle both superior and inferior
+forces.
+
+  This is not merely the general’s ability to estimate numbers
+  correctly, as Li Ch‘üan and others make out. Chang Yü expounds the
+  saying more satisfactorily: “By applying the art of war, it is
+  possible with a lesser force to defeat a greater, and _vice
+  versâ_. The secret lies in an eye for locality, and in not letting
+  the right moment slip. Thus Wu Tzŭ says: ‘With a superior force,
+  make for easy ground; with an inferior one, make for difficult
+  ground.’”
+
+(3) He will win whose army is animated by the same spirit throughout
+all its ranks.
+
+  Ts‘ao Kung refers 上下 less well to sovereign and subjects.
+
+(4) He will win who, prepared himself, waits to take the enemy
+unprepared.
+
+(5) He will win who has military capacity and is not interfered with
+by the sovereign.
+
+  Tu Yu quotes 王子 as saying: 指授在君決戰在將也 “It is the
+  sovereign’s function to give broad instructions, but to decide on
+  battle is the function of the general.” It is needless to dilate
+  on the military disasters which have been caused by undue
+  interference with operations in the field on the part of the home
+  government. Napoleon undoubtedly owed much of his extraordinary
+  success to the fact that he was not hampered by any central
+  authority,—that he was, in fact, 將 and 君 in one.
+
+Victory lies in the knowledge of these five points.
+
+  Literally, “These five things are knowledge of the principle of
+  victory.”
+
+18. 故曰知彼知己百戰不殆不知彼而知己一勝一負不知彼不知己每戰必殆
+
+Hence the saying: If you know the enemy and know yourself, you need
+not fear the result of a hundred battles. If you know yourself but not
+the enemy, for every victory gained you will also suffer a defeat.
+
+  Li Ch‘üan cites the case of 苻堅 Fu Chien, prince of 秦 Ch‘in, who
+  in 383 A.D. marched with a vast army against the 晉 Chin Emperor.
+  When warned not to despise an enemy who could command the services
+  of such men as 謝安 Hsieh An and 桓沖 Huan Ch‘ung, he boastfully
+  replied: “I have the population of eight provinces at my back,
+  infantry and horsemen to the number of one million; why, they
+  could dam up the Yangtsze River itself by merely throwing their
+  whips into the stream. What danger have I to fear?” Nevertheless,
+  his forces were soon after disastrously routed at the 淝 Fei River,
+  and he was obliged to beat a hasty retreat.
+
+If you know neither the enemy nor yourself, you will succumb in every
+battle.
+
+  The modern text, represented by the 北堂書鈔 and _T‘u Shu_, has
+  必敗, which I should be inclined to adopt in preference to 殆 here,
+  though the _T‘ung Tien_ and _Yü Lan_ both have the latter. Chang
+  Yü offers the best commentary on 知彼知己. He says that these words
+  “have reference to attack and defence: knowing the enemy enables
+  you to take the offensive, knowing yourself enables you to stand
+  on the defensive.” He adds: 攻是守之機守是攻之策 “Attack is the
+  secret of defence; defence is the planning of an attack.” It would
+  be hard to find a better epitome of the root-principle of war.
+
+
+
+
+IV. 形篇
+
+TACTICAL DISPOSITIONS.
+
+
+  形 is a very comprehensive and somewhat vague term. Literally,
+  “form,” “body,” it comes to mean “appearance,” “attitude” or
+  “disposition;” and here it is best taken as something between, or
+  perhaps combining, “tactics” and “disposition of troops.” Ts‘ao
+  Kung explains it as 軍之形也、我動彼應兩敵相察情也 “marching and
+  counter-marching on the part of the two armies with a view to
+  discovering each other’s condition.” Tu Mu says: “It is through
+  the 形 dispositions of an army that its condition may be
+  discovered. Conceal your dispositions (無形), and your condition
+  will remain secret, which leads to victory; show your
+  dispositions, and your condition will become patent, which leads
+  to defeat.” Wang Hsi remarks that the good general can
+  變化其形因敵以制勝 “secure success by modifying his tactics to meet
+  those of the enemy.” In the modern text, the title of the chapter
+  appears as 軍形, which Capt. Calthrop incorrectly translates “the
+  order of battle.”
+
+1. 孫子曰昔之善戰者先爲不可勝以待敵之可勝
+
+Sun Tzŭ said: The good fighters of old first put themselves beyond the
+possibility of defeat, and then waited for an opportunity of defeating
+the enemy.
+
+2. 不可勝在己可勝在敵
+
+To secure ourselves against defeat lies in our own hands, but the
+opportunity of defeating the enemy is provided by the enemy himself.
+
+  That is, of course, by a mistake on his part. Capt. Calthrop has:
+  “The causes of defeat come from within; victory is born in the
+  enemy’s camp,” which, though certainly an improvement on his
+  previous attempt, is still incorrect.
+
+3. 故善戰者能爲不可勝不能使敵必可勝
+
+Thus the good fighter is able to secure himself against defeat,
+
+  “By concealing the disposition of his troops, covering up his
+  tracks, and taking unremitting precautions” (Chang Yü).
+
+but cannot make certain of defeating the enemy.
+
+  The original text reads 使敵之可勝, which the modern text has
+  further modified into 使敵之必可勝. Capt. Calthrop makes out the
+  impossible meaning, “and further render the enemy incapable of
+  victory.”
+
+4. 故曰勝可知而不可爲
+
+Hence the saying: One may _know_ how to conquer without being able to
+_do_ it.
+
+  Capt. Calthrop translates: “The conditions necessary for victory
+  may be present, but they cannot always be obtained,” which is more
+  or less unintelligible.
+
+5. 不可勝者守也可勝者攻也
+
+Security against defeat implies defensive tactics; ability to defeat
+the enemy means taking the offensive.
+
+  For 不可勝 I retain the sense which it undoubtedly bears in §§ 1–3,
+  in spite of the fact that the commentators are all against me. The
+  meaning they give, “He who cannot conquer takes the defensive,” is
+  plausible enough, but it is highly improbable that 勝 should
+  suddenly become active in this way. An incorrect variant in the
+  _Yü Lan_ is 不可勝則守可勝則攻.
+
+6. 守則不足攻則有餘
+
+Standing on the defensive indicates insufficient strength; attacking,
+a superabundance of strength.
+
+7. 善守者藏於九地之下善攻者動於九天之上故能自保而全勝也
+
+The general who is skilled in defence hides in the most secret
+recesses of the earth;
+
+  Literally, “hides under the ninth earth,” which is a metaphor
+  indicating the utmost secrecy and concealment, so that the enemy
+  may not know his whereabouts. The 九地 of this passage have of
+  course no connection with the 九地 “Nine situations” of chap. XI.
+
+he who is skilled in attack flashes forth from the topmost heights of
+heaven.
+
+  Another metaphor, implying that he falls on his adversary like a
+  thunderbolt, against which there is no time to prepare. This is
+  the opinion of most of the commentators, though Ts‘ao Kung,
+  followed by Tu Yu, explains 地 as the hills, rivers, and other
+  natural features which will afford shelter or protection to the
+  attacked, and 天 as the phases of weather which may be turned to
+  account by the attacking party. Capt. Calthrop’s “The skilful in
+  attack push to the topmost heaven” conveys no meaning at all.
+
+Thus on the one hand we have ability to protect ourselves; on the
+other, a victory that is complete.
+
+  Capt. Calthrop draws on a fertile imagination for the following:
+  “If these precepts be observed, victory is certain.”
+
+8. 見勝不過衆人之所知非善之善者也
+
+To see victory only when it is within the ken of the common herd is
+not the acme of excellence.
+
+  As Ts‘ao Kung remarks, 當見未萌 “the thing is to see the plant
+  before it has germinated,” to foresee the event before the action
+  has begun. Li Ch‘üan alludes to the story of Han Hsin who, when
+  about to attack the vastly superior army of 趙 Chao, which was
+  strongly entrenched in the city of 成安 Ch‘êng-an, said to his
+  officers: “Gentlemen, we are going to annihilate the enemy, and
+  shall meet again at dinner.” The officers hardly took his words
+  seriously, and gave a very dubious assent. But Han Hsin had
+  already worked out in his mind the details of a clever stratagem,
+  whereby, as he foresaw, he was able to capture the city and
+  inflict a crushing defeat on his adversary. For the full story,
+  see 前漢書, chap. 34, 韓信傳. Capt. Calthrop again blunders badly
+  with: “A victory, even if popularly proclaimed as such by the
+  common folk, may not be a true success.”
+
+9. 戰勝而天下曰善非善之善者也
+
+Neither is it the acme of excellence if you fight and conquer and the
+whole Empire says, “Well done!”
+
+  True excellence being, as Tu Mu says: 陰謀潛運攻心伐謀勝敵之日曾不血刃
+  “To plan secretly, to move surreptitiously, to foil the enemy’s
+  intentions and baulk his schemes, so that at last the day may be
+  won without shedding a drop of blood.” Sun Tzŭ reserves his
+  approbation for things that
+
+    “the world’s coarse thumb
+    And finger fail to plumb.”
+
+10. 故舉秋毫不爲多力見日月不爲明目聞雷霆不爲聰耳
+
+To lift an autumn hair is no sign of great strength;
+
+  秋毫 is explained as the fur of a hare, which is finest in autumn,
+  when it begins to grow afresh. The phrase is a very common one in
+  Chinese writers. Cf. Mencius, I. 1. vii. 10, and Chuang Tzŭ,
+  知北遊, _et al_.
+
+to see sun and moon is no sign of sharp sight; to hear the noise of
+thunder is no sign of a quick ear.
+
+  Ho Shih gives as real instances of strength, sharp sight and quick
+  hearing: 烏𫉬 Wu Huo, who could lift a tripod weighing 250 stone;
+  離朱 Li Chu, who at a distance of a hundred paces could see objects
+  no bigger than a mustard seed; and 師曠 Shih K‘uang, a blind
+  musician who could hear the footsteps of a mosquito.
+
+11. 古之所謂善戰者勝勝易勝者也
+
+What the ancients called a clever fighter is one who not only wins,
+but excels in winning with ease.
+
+  The original text, followed by the _T‘u Shu_, has 勝於易勝者也. But
+  this is an alteration evidently intended to smooth the awkwardness
+  of 勝勝易勝者也, which means literally: “one who, conquering, excels
+  in easy conquering.” Mei Yao-ch‘ên says: “He who only sees the
+  obvious, wins his battles with difficulty; he who looks below the
+  surface of things, wins with ease.”
+
+12. 故善戰者之勝也無智名無勇功
+
+Hence his victories bring him neither reputation for wisdom nor credit
+for courage.
+
+  Tu Mu explains this very well: “Inasmuch as his victories are
+  gained over circumstances that have not come to light, the world
+  at large knows nothing of them, and he wins no reputation for
+  wisdom; inasmuch as the hostile state submits before there has
+  been any bloodshed, he receives no credit for courage.”
+
+13. 故其戰勝不忒不忒者其所措必勝勝已敗者也
+
+He wins his battles by making no mistakes.
+
+  Ch‘ên Hao says: “He plans no superfluous marches, he devises no
+  futile attacks.” The connection of ideas is thus explained by
+  Chang Yü: “One who seeks to conquer by sheer strength, clever
+  though he may be at winning pitched battles, is also liable on
+  occasion to be vanquished; whereas he who can look into the future
+  and discern conditions that are not yet manifest, will never make
+  a blunder and therefore invariably win.” Li Ch‘üan thinks that the
+  character 忒 should be 貳 “to have doubts.” But it is better not to
+  tamper with the text, especially when no improvement in sense is
+  the result.
+
+Making no mistakes is what establishes the certainty of victory, for
+it means conquering an enemy that is already defeated.
+
+  The T‘u Shu omits 必. 措 is here = 置. Chia Lin says it is put for
+  錯 in the sense of 雜; but this is far-fetched. Capt. Calthrop
+  altogether ignores the important word 忒.
+
+14. 故善戰者立於不敗之地而不失敵之敗也
+
+Hence the skilful fighter puts himself into a position which makes
+defeat impossible, and does not miss the moment for defeating the enemy.
+
+  A 不可爲之計 “counsel of perfection,” as Tu Mu truly observes. 地
+  need not be confined strictly to the actual ground occupied by the
+  troops. It includes all the arrangements and preparations which a
+  wise general will make to increase the safety of his army.
+
+15. 是故勝兵先勝而後求戰敗兵先戰而後求勝
+
+Thus it is that in war the victorious strategist only seeks battle
+after the victory has been won, whereas he who is destined to defeat
+first fights and afterwards looks for victory.
+
+  Ho Shih thus expounds the paradox: “In warfare, first lay plans
+  which will ensure victory, and then lead your army to battle; if
+  you will not begin with stratagem but rely on brute strength
+  alone, victory will no longer be assured.”
+
+16. 善用兵者修道而保法故能爲勝敗之政
+
+The consummate leader cultivates the moral law, and strictly adheres
+to method and discipline;
+
+  For 道 and 法, see _supra_, I. 4 sqq. I think that Chang Yü is
+  wrong in altering their signification here, and taking them as
+  爲戰之道 and 制敵之法 respectively.
+
+thus it is in his power to control success.
+
+17. 兵法一曰度二曰量三曰數四曰稱五曰勝
+
+In respect of military method, we have, firstly, Measurement;
+secondly, Estimation of quantity; thirdly, Calculation; fourthly,
+Balancing of chances; fifthly, Victory.
+
+18. 地生度度生量量生數數生稱稱生勝
+
+Measurement owes its existence to Earth; Estimation of quantity to
+Measurement; Calculation to Estimation of quantity; Balancing of
+chances to Calculation; and Victory to Balancing of chances.
+
+  It is not easy to distinguish the four terms 度量數稱 very clearly.
+  The first seems to be surveying and measurement of the ground,
+  which enable us to 量 form an estimate of the enemy’s strength, and
+  to 數 make calculations based on the data thus obtained; we are
+  thus led to 稱 a general weighing-up, or comparison of the enemy’s
+  chances with our own; if the latter turn the scale, then 勝 victory
+  ensues. The chief difficulty lies in 數, which some commentators
+  take as a calculation of _numbers_, thereby making it nearly
+  synonymous with 量. Perhaps 量 is rather a consideration of the
+  enemy’s general position or condition (情 or 形勢), while 數 is
+  the estimate of his numerical strength. On the other hand, Tu Mu
+  defines 數 as 機數, and adds: 强弱已定然後能用機變數也 “the question
+  of relative strength having been settled, we can bring the
+  varied resources of cunning into play.” Ho Shih seconds this
+  interpretation, which is weakened, however, by the fact that 稱 is
+  given as logically consequent on 數; this certainly points to the
+  latter being a calculation of numbers. Of Capt. Calthrop’s version
+  the less said the better.
+
+19. 故勝兵若以鎰稱銖敗兵若以銖稱鎰
+
+A victorious army opposed to a routed one, is as a pound’s weight
+placed in the scale against a single grain.
+
+  Literally, “a victorious army is like an 鎰 _i_ (20 oz.) weighed
+  against a 銖 _shu_ (1⁄24 oz.); a routed army as a _shu_ weighed
+  against an _i_.” The point is simply the enormous advantage which
+  a disciplined force, flushed with victory, has over one
+  demoralised by defeat. Legge, in his note on Mencius, I. 2. ix. 2,
+  makes the 鎰 to be 24 Chinese ounces, and corrects Chu Hsi’s
+  statement that it equalled 20 oz. only. But Li Ch‘üan of the T‘ang
+  dynasty here gives the same figure as Chu Hsi.
+
+20. 勝者之戰民也若決積水於千仞之谿者形也
+
+The onrush of a conquering force is like the bursting of pent-up
+waters into a chasm a thousand fathoms deep. So much for tactical
+dispositions.
+
+  The construction here is slightly awkward and elliptical, but the
+  general sense is plain. The _T‘u Shu_ omits 民也. A 仞 = 8 尺 or
+  Chinese feet.
+
+
+
+
+V. 埶篇
+
+ENERGY.
+
+
+  埶 here is said to be an older form of 勢; Sun Tzŭ, however, would
+  seem to have used the former in the sense of “power,” and the latter
+  only in the sense of “circumstances.” The fuller title 兵勢 is found
+  in the _T‘u Shu_ and the modern text. Wang Hsi expands it into 積勢之變
+  “the application, in various ways, of accumulated power;” and Chang Yü
+  says: 兵勢以成然後任勢以取勝 “When the soldiers’ energy has reached its
+  height, it may be used to secure victory.”
+
+1. 孫子曰凡治衆如治寡分數是也
+
+Sun Tzŭ said: The control of a large force is the same in principle as
+the control of a few men: it is merely a question of dividing up their
+numbers.
+
+  That is, cutting up the army into regiments, companies, etc., with
+  subordinate officers in command of each. Tu Mu reminds us of Han
+  Hsin’s famous reply to the first Han Emperor, who once said to
+  him: “How large an army do you think I could lead?” “Not more than
+  100,000 men, your Majesty.” “And you?” asked the Emperor. “Oh!” he
+  answered, “the more the better” (多多益辦耳). Chang Yü gives the
+  following curious table of the subdivisions of an army:—5 men make
+  a 列; 2 列 make a 火; 5 火 make a 隊; 2 隊 make a 官; 2 官 make a
+  曲; 2 曲 make a 部; 2 部 make a 校; 2 校 make a 裨; 2 裨 make a 軍.
+  A 軍 or army corps thus works out at 3200 men. But cf. III. § 1,
+  note. For 曲, see I. § 10. It is possible that 官 in that paragraph
+  may also be used in the above technical sense.
+
+2. 鬥衆如鬥寡形名是也
+
+Fighting with a large army under your command is nowise different from
+fighting with a small one: it is merely a question of instituting
+signs and signals.
+
+  One must be careful to avoid translating 鬥衆 “fighting _against_ a
+  large number,” no reference to the enemy being intended. 形 is
+  explained by Ts‘ao Kung as denoting flags and banners, by means of
+  which every soldier may recognise his own particular regiment or
+  company, and thus confusion may be prevented. 名 he explains as
+  drums and gongs, which from the earliest times were used to sound
+  the advance and the retreat respectively. Tu Mu defines 形 as 陳形
+  “marshalling the troops in order,” and takes 名 as the flags and
+  banners. Wang Hsi also dissents from Ts‘ao Kung, referring 形 to
+  the ordering of the troops by means of banners, drums and gongs,
+  and 名 to the various names by which the regiments might be
+  distinguished. There is much to be said for this view.
+
+3. 三軍之衆可使必受敵而無敗者奇正是也
+
+To ensure that your whole host may withstand the brunt of the enemy’s
+attack and remain unshaken—this is effected by manœuvres direct and
+indirect.
+
+  For 必, there is another reading 畢, “all together,” adopted by
+  Wang Hsi and Chang Yü. We now come to one of the most interesting
+  parts of Sun Tzŭ’s treatise, the discussion of the 正 and the 奇.
+  As it is by no means easy to grasp the full significance of these
+  two terms, or to render them at all consistently by good English
+  equivalents, it may be as well to tabulate some of the
+  commentator’s remarks on the subject before proceeding further. Li
+  Ch‘üan: 當敵爲正傍出爲奇 “Facing the enemy is _chêng_, making
+  lateral diversions is _ch‘i_.” Chia Lin: 當敵以正陳取勝以奇兵 “In
+  presence of the enemy, your troops should be arrayed in normal
+  fashion, but in order to secure victory abnormal manœuvres must be
+  employed.” Mei Yao-ch‘ên: 動爲奇靜爲正靜以待之動以勝之 “_Ch‘i_ is
+  active, _chêng_ is passive; passivity means waiting for an
+  opportunity, activity brings the victory itself.” Ho Shih:
+  我之正使敵視之爲奇我之奇使敵視之爲正正亦爲奇奇亦爲正 “We must cause the
+  enemy to regard our straightforward attack as one that is secretly
+  designed, and _vice versâ_; thus _chêng_ may also be _ch‘i_, and
+  _ch‘i_ may also be _chêng_.” He instances the famous exploit of
+  Han Hsin, who when marching ostensibly against 臨晉 Lin-chin (now
+  朝邑 Chao-i in Shensi), suddenly threw a large force across the
+  Yellow River in wooden tubs, utterly disconcerting his opponent.
+  [_Ch‘ien Han Shu_, ch. 34.] Here, we are told, the march on
+  Lin-chin was 正, and the surprise manœuvre was 奇. Chang Yü gives
+  the following summary of opinions on the words: “Military writers
+  do not all agree with regard to the meaning of _ch‘i_ and _chêng_.
+  尉繚子 Wei Liao Tzŭ [4th cent. B.C.] says: 正兵貴先奇兵貴後 ‘Direct
+  warfare favours frontal attacks, indirect warfare attacks from the
+  rear.’ Ts‘ao Kung says: ‘Going straight out to join battle is a
+  direct operation; appearing on the enemy’s rear is an indirect
+  manœuvre.’ 李衛公 Li Wei-kung [6th and 7th cent. A.D.] says: ‘In
+  war, to march straight ahead is _chêng_; turning movements, on the
+  other hand, are _ch‘i_.’ These writers simply regard _chêng_ as
+  _chêng_, and _ch‘i_ as _ch‘i_; they do not note that the two are
+  mutually interchangeable and run into each other like the two
+  sides of a circle [see _infra_, § 11]. A comment of the T‘ang
+  Emperor T‘ai Tsung goes to the root of the matter: ‘A _ch‘i_
+  manœuvre may be _chêng_, if we make the enemy look upon it as
+  _chêng_; then our real attack will be _ch‘i_, and _vice versâ_.
+  The whole secret lies in confusing the enemy, so that he cannot
+  fathom our real intent.’” To put it perhaps a little more clearly:
+  any attack or other operation is 正, on which the enemy has had his
+  attention fixed; whereas that is 奇, which takes him by surprise or
+  comes from an unexpected quarter. If the enemy perceives a
+  movement which is meant to be 奇, it immediately becomes 正.
+
+4. 兵之所加如以碬投卵者虛實是也
+
+That the impact of your army may be like a grindstone dashed against
+an egg—this is effected by the science of weak points and strong.
+
+  虛實, literally “the hollow and the solid,” is the title of chap.
+  VI. 碫 _tuan_ is the _T‘u Shu_ reading, 碬 _hsia_ that of the
+  standard text. It appears from K‘ang Hsi that there has been much
+  confusion between the two characters, and indeed, it is probable
+  that one of them has really crept into the language as a mistake
+  for the other.
+
+5. 凡戰者以正合以奇勝
+
+In all fighting, the direct method may be used for joining battle, but
+indirect methods will be needed in order to secure victory.
+
+  Chang Yü says: 徐發奇兵或擣其旁或擊其後 “Steadily develop indirect
+  tactics, either by pounding the enemy’s flanks or falling on his
+  rear.” A brilliant example of “indirect tactics” which decided the
+  fortunes of a campaign was Lord Roberts’ night march round the
+  Peiwar Kotal in the second Afghan war.[169]
+
+6. 故善出奇者無窮如天地不竭如江河終而復始日月是也死而復生四時是也
+
+Indirect tactics, efficiently applied, are inexhaustible as Heaven and
+Earth, unending as the flow of rivers and streams;
+
+  奇 is the universally accepted emendation for 兵, the reading of
+  the 北堂書鈔.
+
+like the sun and moon, they end but to begin anew; like the four
+seasons, they pass away but to return once more.
+
+  Tu Yu and Chang Yü understand this of the permutations of 奇 and
+  正. But at present Sun Tzŭ is not speaking of 正 at all, unless,
+  indeed, we suppose with 鄭友賢 Chêng Yu-hsien that a clause
+  relating to it has fallen out of the text. Of course, as has
+  already been pointed out, the two are so inextricably interwoven
+  in all military operations, that they cannot really be considered
+  apart. Here we simply have an expression, in figurative language,
+  of the almost infinite resource of a great leader.
+
+7. 聲不過五五聲之變不可勝聽也
+
+There are not more than five musical notes,
+
+  宮商角微羽.
+
+yet the combinations of these five give rise to more melodies than can
+ever be heard.
+
+8. 色不過五五色之變不可勝觀也
+
+There are not more than five primary colours,
+
+  靑黃赤白黑 blue, yellow, red, white and black.
+
+yet in combination they produce more hues than can ever be seen.
+
+9. 味不過五五味之變不可勝嘗也
+
+There are not more than five cardinal tastes,
+
+  酸辛醎甘苦 sour, acrid, salt, sweet, bitter.
+
+yet combinations of them yield more flavours than can ever be tasted.
+
+10. 戰埶不過奇正奇正之變不可勝窮也
+
+In battle, there are not more than two methods of attack—the direct
+and the indirect; yet these two in combination give rise to an endless
+series of manœuvres.
+
+11. 奇正相生如循環之無端孰能窮之
+
+The direct and the indirect lead on to each other in turn. It is like
+moving in a circle—you never come to an end. Who can exhaust the
+possibilities of their combination?
+
+  The _T‘u Shu_ adds 哉. The final 之 may refer either to the circle
+  or, more probably, to the 奇正之變 understood. Capt. Calthrop is
+  wrong with: “They are a mystery that none can penetrate.”
+
+12. 激水之疾至於漂石者埶也
+
+The onset of troops is like the rush of a torrent which will even roll
+stones along in its course.
+
+13. 鷙鳥之疾至於毀折者節也
+
+The quality of decision is like the well-timed swoop of a falcon which
+enables it to strike and destroy its victim.
+
+  For 疾 the _Yü Lan_ reads 擊, which is also supported by a
+  quotation in the 呂氏春秋 [3rd cent. B.C.]. 節 in this context is a
+  word which really defies the best efforts of the translator. Tu
+  Mu says that it is equivalent to 節量遠近 “the measurement or
+  estimation of distance.” But this meaning does not quite fit the
+  illustrative simile in § 15. As applied to the falcon, it seems to
+  me to denote that instinct of _self-restraint_ which keeps the
+  bird from swooping on its quarry until the right moment, together
+  with the power of judging when the right moment has arrived. The
+  analogous quality in soldiers is the highly important one of being
+  able to reserve their fire until the very instant at which it
+  will be most effective. When the “Victory” went into action at
+  Trafalgar at hardly more than drifting pace, she was for several
+  minutes exposed to a storm of shot and shell before replying with
+  a single gun. Nelson coolly waited until he was within close
+  range, when the broadside he brought to bear worked fearful havoc
+  on the enemy’s nearest ships. That was a case of 節.
+
+14. 是故善戰者其埶險其節短
+
+Therefore the good fighter will be terrible in his onset, and prompt
+in his decision.
+
+  Tu Yu defines 節 here by the word 斷, which is very like “decision”
+  in English. 短 is certainly used in a very unusual sense, even if,
+  as the commentators say, it = 近. This would have reference to the
+  measurement of distance mentioned above, letting the enemy get
+  near before striking. But I cannot help thinking that Sun Tzŭ
+  meant to use the word in a figurative sense comparable to our
+  own idiom “short and sharp.” Cf. Wang Hsi’s note, which after
+  describing the falcon’s mode of attack, proceeds: 兵之乘機當如是耳
+  “This is just how the ‘psychological moment’ should be seized in
+  war.” I do not care for Capt. Calthrop’s rendering: “The spirit of
+  the good fighter is terrifying, his occasions sudden.”
+
+15. 埶如彍弩節如發機
+
+Energy may be likened to the bending of a cross-bow; decision, to the
+releasing of the trigger.
+
+  “Energy” seems to be the best equivalent here for 埶, because the
+  comparison implies that the force is potential, being stored up in
+  the bent cross-bow until released by the finger on the trigger.
+  None of the commentators seem to grasp the real point of the simile.
+
+16. 紛紛紜紜鬥亂而不可亂也渾渾沌沌形圓而不可敗也
+
+Amid the turmoil and tumult of battle, there may be seeming disorder
+and yet no real disorder at all; amid confusion and chaos, your array
+may be without head or tail, yet it will be proof against defeat.
+
+  形圓, literally “formation circular”, is explained by Li Ch‘üan as
+  無向背也 “without back or front.” Mei Yao-ch‘ên says: “The
+  subdivisions of the army having been previously fixed, and the
+  various signals agreed upon, the separating and joining, the
+  dispersing and collecting which will take place in the course of a
+  battle, may give the appearance of disorder when no real disorder
+  is possible. Your formation may be without head or tail, your
+  dispositions all topsy-turvy, and yet a rout of your forces quite
+  out of the question.” It is a little difficult to 

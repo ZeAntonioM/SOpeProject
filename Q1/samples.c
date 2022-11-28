@@ -2,16 +2,7 @@
 #include <stdlib.h>
 #include <unistd.h>
 #include <fcntl.h>
-
-
-// fseek(FILE* stream, long offset, int whence -> ponto de começo pode ser SEEK_SET, SEEK_CUR E SEEK_END)
-// random(void)
-// srandom(seed)
-
-// 1- se sample maior que texto, devemos dizer que nao pode ou ignorar e mandar a maior sample possivel
-// 2- caso encontremos new line, descontamos como caraceters e continuamos a procura de outro, ou nao pode ter new line, ou
-// nao mostramos e contamos a new line
-// 3- 
+#include <string.h>
 
 long verifyInput(char* arg, long *n) {
     char* endptr;
@@ -20,15 +11,15 @@ long verifyInput(char* arg, long *n) {
     return *endptr == '\0';
 }
 
-int main(int argc, char* argv[]) {
+int main (int argc, char* argv[]) {
     FILE* file;
     char *theStr;
     int alreadyStored, arraySize = 0;
     long numberFrags, maxFragSize, test1, test2, tam, idx;
-    long *alreadySeen; // Que capacidade?
+    long *alreadySeen;
     srandom(0);
 
-    // Checks if number of arguments is correct (argv[], argc, n, m)
+    // Checks if number of arguments is correct (argc, File, n, m)
     if (argc != 4) {
         printf("Invalid number of arguments\nUsage: samples file numberfrags maxfragsize\n");
         return EXIT_FAILURE;
@@ -40,6 +31,7 @@ int main(int argc, char* argv[]) {
         return EXIT_FAILURE;
     }
     
+    //Checks if file is actually a file
     file = fopen(argv[1], "r");
     if (file == NULL) {
         printf("Provided file argument isn't a file\n");
@@ -58,7 +50,7 @@ int main(int argc, char* argv[]) {
 
     // Getting the fragments
     theStr = (char*) malloc(maxFragSize * sizeof(char));
-    alreadySeen = (long*) malloc((tam-maxFragSize) * sizeof(long));
+    alreadySeen = (long*) malloc((numberFrags) * sizeof(long)); 
 
     while (numberFrags != 0) {
         long aTry;
@@ -66,7 +58,7 @@ int main(int argc, char* argv[]) {
         // Determinar inicio de proximo fragmento
         while (1) {
             alreadyStored = 0;
-            aTry = random() % (tam-maxFragSize); // Rever isto
+            aTry = random() % (tam-maxFragSize); 
             for (int i = 0; i < arraySize; i++) {
                 if (aTry == alreadySeen[i]) {
                     alreadyStored = 1;
@@ -79,7 +71,6 @@ int main(int argc, char* argv[]) {
         
         fseek(file, aTry, SEEK_SET);
         fread(theStr, maxFragSize, 1, file);
-
         // Print the string
         idx = 0;
         printf(">");
@@ -94,7 +85,8 @@ int main(int argc, char* argv[]) {
         alreadySeen[arraySize++] = aTry;
         numberFrags--;
     }
-
+    free(theStr);
+    free(alreadySeen);
+    //dontfree(DANIELDOSSANTOSFERREIRA);
     return 0;
-
 }
