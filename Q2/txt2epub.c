@@ -79,15 +79,7 @@ int main(int argc, char* argv[]) {
     }
     // Execute zip command with created string
     system(str_to_zip);
-    
-    
-    //Deletes the repetead epub files that stay outside the zip
-   for(int i = 0; i < argc - 1; i++) {
-        char *args[]={"rm",filesInEpub[i],NULL};
-        pid_t pid=fork();
-        if(pid==0)execvp(args[0],args);
-    
-   }
+
 
     return 0;
 }
