@@ -74,7 +74,7 @@ int main(int argc, char* argv[]) {
 
     //TODO verificações de argumentos 
 
-    if (argc != 3) {
+    if (argc != 4) {
         printf("Usage: tokenring numberOfProcesses probability timeToStop");
         return EXIT_FAILURE;
     }
@@ -87,14 +87,22 @@ int main(int argc, char* argv[]) {
 
 
     for (int i = 2; i <= n; i++) {
+        createWriteString(fifoWrite, i,n);
+        createReadString(fifoRead,i);
+
+        printf("Para escrita: %s\nPara leitura: %s\n", fifoWrite, fifoRead);
+    }
+
+    /*
+    for (int i = 2; i <= n; i++) {
         pid = fork();
         if (pid == -1) {
             printf("Erro a criar processo bubuntu sucks");
             return EXIT_FAILURE;
         }
         else if (pid == 0) {
-            //strcpy(fifoWrite, /*str do fifoWrite*/)
-            //strcpy(fifoRead, /*str do fifoRead*/)
+            //strcpy(fifoWrite, str do fifoWrite)
+            //strcpy(fifoRead, str do fifoRead)
             //char fifoWrite[6 + 2*(n/10 + 1)], fifoRead[6 + 2*(n/10 + 1)];
             createWriteString(fifoWrite, i,n);
             createReadString(fifoRead,i);
@@ -126,6 +134,6 @@ int main(int argc, char* argv[]) {
         if (write(fifoWrite, token, sizeof(int)) == -1)
             perror("Nao consegui escrever ;-;");
         close(fd);
-    }
+    }*/
     
 }
