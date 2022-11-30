@@ -44,12 +44,7 @@ int main(int argc, char* argv[]) {
             size_for_zip += strlen(filesInEpub[i - 1]) + 1;
         if(pid!=0) printf("[pide %d] converting %s\n", pid, argv[i]);
         if (pid == 0) {
-            
-            //char * func= (char*) malloc((12+ 2*strlen(argv[i])) * sizeof(char)); // PERGUNTAR AO STOR COMO DAR FREE A ISTO???
-            //createFunc(func, argv[i],filesEmEpub[i]);
             char *args[]={"pandoc", argv[i] ,"-o",filesInEpub[i-1],NULL};
-            //execlp("pandoc", argv[i] ,"-o",filesEmEpub[i-1],NULL); // pandoc f1.txt -o f1.epub
-            //execlp("ls"," -l",NULL);
             execvp(args[0],args);
             
         }
