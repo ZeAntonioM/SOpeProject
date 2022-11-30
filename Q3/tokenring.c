@@ -75,6 +75,7 @@ int main(int argc, char* argv[]) {
         else if (pid == 0) {
             //strcpy(fifoWrite, /*str do fifoWrite*/)
             //strcpy(fifoRead, /*str do fifoRead*/)
+            isFatherOfAll = 0;
             break;
         }
         else {
