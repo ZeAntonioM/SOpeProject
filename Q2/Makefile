@@ -20,4 +20,4 @@ cleanTxt:
 cleanZip:
 	rm -f *.zip
 
-cleanAll: cleanEpub cleanZip
+cleanAll: cleanEpub cleanZip cleanTxt

@@ -13,3 +13,5 @@ clean:
 
 cleanTxt:
 	rm -f *.txt
+
+cleanAll: clean cleanTxt

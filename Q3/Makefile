@@ -15,3 +15,5 @@ clean:
 # ls |grep -P (regex) filtra todos os ficheiros que dêem match à regex numa lista, xargs -d"\n" rm executa o comando "rm" a todas as linhas da lista, neste caso os ficheiros filtrados
 cleanFifos:
 	ls | grep -P $(REGEX_MATCH) | xargs -d"\n" rm
+
+cleanAll: clean cleanFifos

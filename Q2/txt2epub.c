@@ -3,50 +3,53 @@
 #include <unistd.h>
 #include <fcntl.h>
 #include <string.h>
- #include <sys/types.h>
+#include <sys/types.h>
 #include <sys/wait.h>
 
 
 
 // Changes the extension of the file from ".txt" to ".epub"
- void changeNameToEpub(char* name){
+void changeNameToEpub(char* name){
     int size = strlen(name);
     int counter = 0;
-    //copies the name of the file
+    // Copies the name of the file
     while(counter < size - 3){
         name++;
         counter++;
     }
-    //Change extension to epub
-    *name='e';
+    // Change extension to epub
+    *name = 'e';
     name++;
-    *name='p';
+    *name = 'p';
     name++;
-    *name='u';
+    *name = 'u';
     name++;
-    *name='b';
+    *name = 'b';
 }
 
 
 int main(int argc, char* argv[]) {
    
-    char* filesInEpub[argc-1]; 
+    char* filesInEpub[argc-1];  // Holds the initial files with .epub extenson
     int size_for_zip;
 
     // Creates child processes and executes the pandoc command on each of the children
     for (int i = 1; i < argc; i++) {
         int pid = fork();
-        char *epub= (char*)malloc(strlen(argv[i]));
-        strcpy(epub,argv[i]);
-        changeNameToEpub(epub);
-        filesInEpub[i - 1] = epub;
+        char *aFile= (char*)malloc(strlen(argv[i]));
+
+        strcpy(aFile ,argv[i]);
+        changenameToEpub(aFile);
+
+        filesInEpub[i - 1] = aFile;
         size_for_zip += strlen(filesInEpub[i - 1]) + 1;
+        
         if (pid < 0) {
-            perror("Couldnt create a process with fork\n");
+            perror("Couldn't create a process with fork\n");
         }
         else if (pid == 0) {
-            char *args[]={"pandoc", argv[i] ,"-o",filesInEpub[i-1],NULL};
-            execvp(args[0],args); 
+            char *args[] = {"pandoc", argv[i], "-o", filesInEpub[i-1], NULL};
+            execvp(args[0], args); 
         }
         else {
             printf("[pide %d] converting %s\n", pid, argv[i]);
