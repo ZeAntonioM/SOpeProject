@@ -1,0 +1,15 @@
+-SO project 2022/23
+	
+	First Execise: The aim of the exercise was to make a program that given a file, and two numbers n and s, would print n unique strings from the file each one with the size s. The end of the lines should be ignored and replaced by a space.
+	
+	Second Exercise: The aim of the exercise was to make a program that given n files with the extension of .txt would convert them to .epub (using multiple processes in parallel) and in addition to that it would create a zip containing all the epub files. We used pandoc (we assumed that it would be installed in the tester's machine) to do this exercice.
+	
+	Third Exercise: The aim of this exercice was to make a program that given two integers n and t and a decimal value p, would be able to create a ring of n interconnected processes joined by named pipes. These processes needed to be able to communicate unidirectionaly, by sending a token (an integer that starts with the value 0). When each process receives the token, it increments it, holds it for t seconds with a probability of p, and sends it to the next process. To do this exercice we assumed that the initial process would be part of the process ring.
+
+Project done by:
+-Antonio Henrique Martins Azevedo	up202108689
+-Daniel dos Santos Ferreira		up202108771
+-Francisco Miguel Correia M.P Cardoso	up202108793
+-José Antonio Pereira Martins		up202108794
+-Group: G6PL02
+
