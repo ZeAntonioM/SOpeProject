@@ -1,5 +1,3 @@
-# we vibin
-
 CXXFLAGS = -Wall -Wuninitialized -Werror
 
 txt2epub: code.o
@@ -20,4 +18,4 @@ cleanTxt:
 cleanZip:
 	rm -f *.zip
 
-cleanAll: cleanEpub cleanZip cleanTxt
+cleanAll: clean cleanEpub cleanZip cleanTxt

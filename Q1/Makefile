@@ -1,5 +1,3 @@
-# we vibin
-
 CXXFLAGS = -Wall -Wuninitialized -Werror
 
 samples: code.o

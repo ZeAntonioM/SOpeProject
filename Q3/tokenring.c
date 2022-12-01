@@ -178,7 +178,7 @@ int main(int argc, char* argv[]) {
             fprintf(stderr, "[p%ld] unlock token\n", token % n + 1);
         }
 
-        // Process if going to send the incremented token to another process via its writing pipe
+        // Process is going to send the incremented token to another process via its writing pipe
         fd2 = open(fifoWrite, O_WRONLY);
         if (write(fd2, &token, sizeof(long)) == -1){
             perror("Couldn't write on pipe\n");
