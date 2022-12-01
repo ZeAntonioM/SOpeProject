@@ -16,4 +16,4 @@ tokenring: Q3/tokenring.c
 	gcc -o Q3/tokenring.c
 
 clean:
-	rom -f all samples txt2epub tokenring Q2/ebooks.zip Q2/christmas.epub Q2/filosofia.epub Q2/guerra.epub Q2/lusiadas.epub Q2/maias.epub tokenring
+	rm -f all samples txt2epub tokenring Q2/ebooks.zip Q2/christmas.epub Q2/filosofia.epub Q2/guerra.epub Q2/lusiadas.epub Q2/maias.epub tokenring

@@ -31,7 +31,7 @@
 int main(int argc, char* argv[]) {
    
     char* filesInEpub[argc-1]; 
-    pid_t pidChilds[argc-1];
+    //pid_t pidChilds[argc-1];
     int size_for_zip;
 
     // Creates child processes and execs the pandoc command on each of the children
@@ -49,7 +49,7 @@ int main(int argc, char* argv[]) {
             
         }
         
-        pidChilds[i - 1] = pid;
+        //pidChilds[i - 1] = pid;
     }
     
     // Checks to see if any of the attempted file conversions resulted in an error
