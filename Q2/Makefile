@@ -11,11 +11,13 @@ code.o:
 clean:
 	rm -f txt2epub code.o 
 
-clean_epub:
+cleanEpub:
 	rm -f *.epub
 
-clean_txt:
+cleanTxt:
 	rm -f *.txt
 
-clean_zip:
+cleanZip:
 	rm -f *.zip
+
+cleanAll: cleanEpub cleanZip

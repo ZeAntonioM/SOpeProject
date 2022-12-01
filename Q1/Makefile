@@ -11,5 +11,5 @@ code.o:
 clean:
 	rm -f samples code.o
 
-clean_txt:
+cleanTxt:
 	rm -f *.txt

@@ -13,5 +13,5 @@ clean:
 	rm -f tokenring code.o
 
 # ls |grep -P (regex) filtra todos os ficheiros que dêem match à regex numa lista, xargs -d"\n" rm executa o comando "rm" a todas as linhas da lista, neste caso os ficheiros filtrados
-clean_fifos:
+cleanFifos:
 	ls | grep -P $(REGEX_MATCH) | xargs -d"\n" rm

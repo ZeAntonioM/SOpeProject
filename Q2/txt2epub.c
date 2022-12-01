@@ -42,7 +42,7 @@ int main(int argc, char* argv[]) {
         filesInEpub[i - 1] = epub;
         size_for_zip += strlen(filesInEpub[i - 1]) + 1;
         if (pid < 0) {
-            perror("Couldnt create a process with fork\n")
+            perror("Couldnt create a process with fork\n");
         }
         else if (pid == 0) {
             char *args[]={"pandoc", argv[i] ,"-o",filesInEpub[i-1],NULL};
