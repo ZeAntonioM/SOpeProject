@@ -9,10 +9,13 @@ code.o:
 	gcc -c $(CXXFLAGS) txt2epub.c -o code.o
 
 clean:
-	rm -f txt2epub code.o
+	rm -f txt2epub code.o 
 
 clean_epub:
 	rm -f *.epub
 
 clean_txt:
 	rm -f *.txt
+
+clean_zip:
+	rm -f *.zip

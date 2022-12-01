@@ -8,50 +8,25 @@
 #include <fcntl.h>
 #include <math.h>
 
-/*
-    Para fazer os fifos usar mkfifo(PATH, Visibilidade)
+long verifyInputLong(char* arg, long *n) {
+    char* endptr;
+    *n = strtol(arg, &endptr, 10);
     
-    0 - criar os processos
-    1 - Criar os FIFOS
-    2 - 
+    return *endptr == '\0';
+}
 
-    n -> numero de processos
-    p -> probabilidade de parar
-    t -> tempo de espera quando para
-
-    intImportante TempN = n;
-    int pidInicial =  getpid(), token = 0, pathings = n;
-    char* fifoEscrever[], * fifoLer[];
+double verifyInputDouble(char* arg, double *n) {
+    char* endptr;
+    *n = strtod(arg, &endptr);
+    
+    return *endptr == '\0';
+}
 
 
-    while (tempN != 0) {
-        strcpy(fifoLer, "pipe + pathings + to + (pathings + 1) % n")
-        n = (n + 1) % n;
-        int pid = fork();
-        if (pid == -1) {
-            ERROOOOOOOOOOOOOOOU
-        }
-        else if (pid == 0) {
-            BRAZIU
-
-        }
-        else {
-            if ( ( int succeeded = mkfifo() ) == -1) {
-                ERRRRROOOOOOOOOOOOOOOOOOU
-            }
-            
-            strcpy(fifoEscrever, "pipe + pathings + to + (pathings + 1) % n");
-            write(fifoEscrever, token, sizeof(int))
-            break;
-        }
-        tempN--;
-    }
-*/
 void createWriteString(char* write, int process,int n){
-        
-        strcpy(write,"");
-      
         char number[10];
+
+        strcpy(write,"");
         strcpy(number, "");
         sprintf(number,"%d",process);
         strcat(write,"pipe");
@@ -59,7 +34,6 @@ void createWriteString(char* write, int process,int n){
         strcat(write,"to");
         sprintf(number,"%d", process == n ? 1 : (process + 1));
         strcat(write,number);
-
 }
 void createReadString(char* read, int process,int n){
         strcpy(read, "");
@@ -75,111 +49,124 @@ void createReadString(char* read, int process,int n){
 
 }
 
-int roolTheDice(double prob){
+int rollTheDice(double prob){
     double r = (double)random()/(pow(2,31)-1);
-    printf("Probability: %lf\n", r);
     return r <= prob;
 }
 
 
 
 int main(int argc, char* argv[]) {
+    /*Initializing needed variables */
     int fd;
     char *checkInt;
-    srandom(0);
-    //int process=1;
-    //TODO verificações de argumentos 
+    long n, t;
+    pid_t pid;
+    long token = 0;
+    double p;
 
+    srandom(0);// Setting a seed for the random of the main process
+    
+    /* Cheching if the number of arguments is valid */
     if (argc != 4) {
         printf("Usage: tokenring numberOfProcesses probability timeToStop\n");
         return EXIT_FAILURE;
     }
 
-    int n = strtol(argv[1], &checkInt, 10),  t = strtol(argv[3], &checkInt, 10);
-    pid_t pid;
-    long token = 1;
-    double p = strtod(argv[2], &checkInt);
-  
+   
+    /*verify if the number of processes and the time of lock are valid and give them their values to the variables n and t respectively if so*/
+    if (!verifyInputLong(argv[1], &n) || !verifyInputLong(argv[3], &t)) {
+        fprintf(stderr, "numberOfProcesses and timeToStop must be long\n");
+        return EXIT_FAILURE;
+    }
+
+    /*verify if the probability is valid and give his value to the variables p if so*/
+    if (!verifyInputDouble(argv[2],&p)) {
+        fprintf(stderr,"probability must be double\n");
+        return EXIT_FAILURE;
+    }
+
+    /*The probability and the timeToStop must be positive or zero*/
+    if ( p < 0 || t < 0 ) {
+        fprintf(stderr,"Arguments must be positive\n");
+        return EXIT_FAILURE;
+    }
+    
+    /*The numberOfProcesses must be at least 2 so that they can comunicate with each other*/    
+    if ( n < 2 ) {
+        fprintf(stderr, "numberOfProcesses must be at least 2");
+        return EXIT_FAILURE;   
+    }
+    
+    /*Initializing the variables to store the FIFOS in wich each pid is going to read and write*/
     char fifoWrite[6 + 2*(n/10 + 1) + 1], fifoRead[6 + 2*(n/10 + 1) + 1];
+
+    /*Associating a FIFO to write and a FIFO to read to the initial process*/
     strcpy(fifoRead, "");
     strcpy(fifoWrite, "");
-   // printf("THE STRING: %s\n", fifoWrite);
     createWriteString(fifoWrite, 1,n);
     createReadString(fifoRead,1,n);
+    
+    /*Creating the FIFO*/
     mkfifo(fifoRead, 0777);
-    printf("Pid: %d; fileToWrite: %s; fileToRead: %s\n", getpid(), fifoWrite, fifoRead);
-    //printf("fifoPath: %s\n", fifoRead);
-
+   
+   /*Creating all and FIFOS*/
     for (int i = 2; i <= n; i++) {
         
-        pid = fork();
+        pid = fork();//crate a pid
 
+        /*if it fails to create the pid gives error message*/
         if (pid == -1) {
             printf("Erro a criar processo bubuntu sucks");
             return EXIT_FAILURE;
         }
         else if (pid == 0) {
-            //printf("PID: %d, return pid: %d\n", getpid(), pid);
-            
-            //strcpy(fifoWrite, str do fifoWrite)
-            //strcpy(fifoRead, str do fifoRead)
-            //char fifoWrite[6 + 2*(n/10 + 1)], fifoRead[6 + 2*(n/10 + 1)];
-            srandom(i*10);
+            /*Associates a process to a random seed and to their respectively FIFO to read and FIFO to write */
+            srandom(i*100);
             createWriteString(fifoWrite, i,n);
             createReadString(fifoRead,i,n);
-            
-            printf("Pid: %d; fileToWrite: %s; fileToRead: %s\n", getpid(), fifoWrite, fifoRead);
             break;
         }
 
         else {
-
+            /*Code only executed by initial process creates the pipe*/
             char fifopath[6 + 2*(n/10 + 1) + 1];
             strcpy(fifopath, "");
             createReadString(fifopath,i,n);
-            //printf("fifoPath: %s\n", fifopath);
             mkfifo(fifopath, 0777);
         }
     }
 
-    // First Process must start the writing
     if (pid > 0) {
-        printf("%s\n",fifoWrite);
         fd = open(fifoWrite, O_WRONLY);
         write(fd, &token, sizeof(long));
-        close(fd);
     }
 
     while (1) {
-       
-        //printf("Pid: %d, Stuck\n", getpid());
-        long token = -1;
         fd = open(fifoRead, O_RDONLY);
-        fprintf(stderr, "Trying to read: %d\n", getpid());
-
-        // Not having the token == -1 was giving some errors, we suspect the a process can 
-        while (token == -1) {
-            if (read(fd, &token, sizeof(long)) == -1) {
-                fprintf(stderr, "Couldn't read");
-                return EXIT_FAILURE;
-            }
-        }
-        close(fd);
-        fprintf(stderr, "Check token: %ld, pid: %d\n", token, getpid());
-        token++;
-        if(roolTheDice(p)){ 
-
-            sleep(t);
-            
-            }
-        fprintf(stderr,"Pid: %d; token: %ld\n", getpid(), token);
-        fd = open(fifoWrite, O_WRONLY);
-        if (write(fd, &token, sizeof(long)) == -1){
-            fprintf(stderr, "Couldn't write");
+        token=-1;
+        
+        if (read(fd, &token, sizeof(long)) == -1) {
+            printf("Token: %ld\n", token);
+            perror("Couldn't read on pipe\n");
             return EXIT_FAILURE;
         }
-        close(fd);
-        //printf("aaa\n");
+        
+        
+        token++;
+        
+        if(rollTheDice(p)){
+            fprintf(stderr, "[p%ld] lock on token (val = %ld)\n", token % n + 1, token);
+            sleep(t);   
+            fprintf(stderr, "[p%ld] unlock token\n", token % n + 1);
+        }
+        
+        
+        fd = open(fifoWrite, O_WRONLY);
+        if (write(fd, &token, sizeof(long)) == -1){
+            perror("Couldn't write on pipe\n");
+            return EXIT_FAILURE;
+        }
     }
     return EXIT_SUCCESS;
 }
