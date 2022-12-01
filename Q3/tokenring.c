@@ -58,8 +58,8 @@ int rollTheDice(double prob){
 
 int main(int argc, char* argv[]) {
     /*Initializing needed variables */
-    
-    char *checkInt;
+
+  
     long n, t;
     pid_t pid;
     long token = 0;
