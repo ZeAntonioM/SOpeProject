@@ -39,7 +39,7 @@ int main(int argc, char* argv[]) {
         char *aFile= (char*)malloc(strlen(argv[i]));
 
         strcpy(aFile ,argv[i]);
-        changenameToEpub(aFile);
+        changeNameToEpub(aFile);
 
         filesInEpub[i - 1] = aFile;
         size_for_zip += strlen(filesInEpub[i - 1]) + 1;
