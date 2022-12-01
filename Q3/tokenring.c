@@ -58,14 +58,14 @@ int rollTheDice(double prob){
 
 int main(int argc, char* argv[]) {
     /*Initializing needed variables */
-    int fd;
+    
     char *checkInt;
     long n, t;
     pid_t pid;
     long token = 0;
     double p;
 
-    srandom(0);// Setting a seed for the random of the main process
+    //srandom(0);// Setting a seed for the random of the main process
     
     /* Cheching if the number of arguments is valid */
     if (argc != 4) {
@@ -99,7 +99,7 @@ int main(int argc, char* argv[]) {
     }
     
     /*Initializing the variables to store the FIFOS in wich each pid is going to read and write*/
-    char fifoWrite[6 + 2*(n/10 + 1) + 1], fifoRead[6 + 2*(n/10 + 1) + 1];
+    char fifoWrite[1024], fifoRead[1024];
 
     /*Associating a FIFO to write and a FIFO to read to the initial process*/
     strcpy(fifoRead, "");
@@ -138,21 +138,22 @@ int main(int argc, char* argv[]) {
     }
 
     if (pid > 0) {
-        fd = open(fifoWrite, O_WRONLY);
-        write(fd, &token, sizeof(long));
+        int fd1 = open(fifoWrite, O_WRONLY);
+        write(fd1, &token, sizeof(long));
     }
 
     while (1) {
-        fd = open(fifoRead, O_RDONLY);
-        token=-1;
-        
-        if (read(fd, &token, sizeof(long)) == -1) {
+        int fd1 = open(fifoRead, O_RDONLY);
+        long token=-1;
+        while(token==-1){
+        if (read(fd1, &token, sizeof(long)) == -1) {
             printf("Token: %ld\n", token);
             perror("Couldn't read on pipe\n");
             return EXIT_FAILURE;
         }
+        }
         
-        
+        close(fd1);
         token++;
         
         if(rollTheDice(p)){
@@ -161,12 +162,12 @@ int main(int argc, char* argv[]) {
             fprintf(stderr, "[p%ld] unlock token\n", token % n + 1);
         }
         
-        
-        fd = open(fifoWrite, O_WRONLY);
-        if (write(fd, &token, sizeof(long)) == -1){
+        int fd2 = open(fifoWrite, O_WRONLY);
+        if (write(fd2, &token, sizeof(long)) == -1){
             perror("Couldn't write on pipe\n");
             return EXIT_FAILURE;
         }
+        close(fd2);
     }
     return EXIT_SUCCESS;
 }
