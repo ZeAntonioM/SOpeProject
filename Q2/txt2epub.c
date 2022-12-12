@@ -46,13 +46,14 @@ int main(int argc, char* argv[]) {
         
         if (pid < 0) {
             perror("Couldn't create a process with fork\n");
+            return EXIT_FAILURE;
         }
         else if (pid == 0) {
             char *args[] = {"pandoc", argv[i], "-o", filesInEpub[i-1], NULL};
             execvp(args[0], args); 
         }
         else {
-            printf("[pide %d] converting %s\n", pid, argv[i]);
+            printf("[pid %d] converting %s\n", pid, argv[i]);
         }
     }
     

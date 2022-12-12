@@ -23,7 +23,7 @@ int main (int argc, char* argv[]) {
 
     srandom(0); // setting a seed for the random generation of numbers
 
-    // Checks if number of arguments is correct (argc, File, n, m)
+    // Checks if number of arguments is correct (nomeProg, File, n, m)
     if (argc != 4) {
         fprintf(stderr, "Invalid number of arguments\nUsage: samples file numberfrags maxfragsize\n");
         return EXIT_FAILURE;
@@ -37,7 +37,7 @@ int main (int argc, char* argv[]) {
 
     if (numberFrags <= 0 || maxFragSize <= 0) {
         fprintf(stderr, "number of fragments and size of fragments must be more than 0\n");
-        return 0;
+        return EXIT_FAILURE;
     }
     
     // Checks if file is actually a file
@@ -54,7 +54,7 @@ int main (int argc, char* argv[]) {
     tam = finalPos - initialPos; 
     
     // Checks if its possible to get n diferent strings with size s from the file
-    if (tam < numberFrags + maxFragSize - 1) {
+    if (tam < numberFrags + maxFragSize - 1) { 
         fprintf(stderr,"It is impossible to get %ld diferent strings with size %ld from this file.\n", numberFrags, maxFragSize);
         return EXIT_FAILURE;
     }
